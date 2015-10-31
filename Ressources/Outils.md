@@ -24,6 +24,9 @@
 ### Outils de visualisation
 * [Datavisualisation.ch Selected Tools](http://selection.datavisualization.ch/)
 
+### Librairies Processing
+* [Unfolding](http://unfoldingmaps.org/) - Cartographie et géovisualisation. 
+
 ### Visualisation JS
 * [Dimple](http://dimplejs.org)
 * [d3js](http://d3js.org)
