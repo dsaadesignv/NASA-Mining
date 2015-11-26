@@ -4,7 +4,7 @@
 
 ### Dataviz
 - [ ] Connaître les principales formes de visualisation et leurs fonctions
-- [ ] Comprendre la notion de grammaire visuelle
+- [ ] Comprendre la notion de variable visuelle
 - [ ] Connaître les enjeux et principes de la visualisation interactive
 - [ ] Repérer et récupérer des données ou sources de données (API)
 - [ ] Construire une visualisation interactive en fonction d'objectifs
@@ -12,6 +12,7 @@
 
 ### UI Design
 - [ ] Connaitre le modèle de Jesse Garrett et situer les différents niveaux de la conception d'interface
+- [ ] Distinguer les métiers et fonctions de la conception interactive (UX, UI, AI, DA, dev, etc.)
 - [ ] Connaître les principales étapes de conception d’une interface
 - [ ] Connaître et utiliser des outils de conception et de prototypage d’interface
 - [ ] Connaître et utiliser les principales règles d’ergonomie (Boucher)
@@ -24,8 +25,7 @@
 - [ ] Mettre en forme l’interface en CSS3 (+ transitions)
 - [ ] Transformer l'interface avec jQuery + addClass/removeClass/toggleClass + style CSS3
 - [ ] Connaître les principaux composants jQuery UI
-- [ ] Connaître et mettre en oeuvre un framework CSS : Materialize
-- [ ] Contrôler une visualisation P5.js avec une console jQuery
+- [ ] Connaître et mettre en oeuvre un framework CSS : Bootstrap
 - [ ] Utiliser la console js et les outils de développement du navigateur
 - [ ] Gérer le développement d'une application sur GitHub (contrôle de version)
 

@@ -31,3 +31,5 @@
   * [section 3](http://emeeks.github.io/gestaltdataviz/section3.html)
   * [section 4](http://emeeks.github.io/gestaltdataviz/section4.html)
 * [Programmable Web](http://www.programmableweb.com/)
+* [Visual Complexity](http://www.visualcomplexity.com/vc/)
+* [Information Aesthetics](http://www.infosthetics.com/)

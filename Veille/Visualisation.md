@@ -15,6 +15,8 @@
 * [Poppy Field](http://poppyfield.org/)
 * [Tous les projets du DensityDesign lab](http://www.densitydesign.org/projects/)
 * [La sélection d'Expoviz](http://interactives.expoviz.fr/)
+* [Information is Beautiful Awards - The 2015 Longlist](http://www.informationisbeautifulawards.com/news/97-the-2015-longlist)
+* [Histography.io](http://histography.io/)
 
 ## Visualisation statique
 * [Nicholas Felton](http://feltron.com/)

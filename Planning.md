@@ -21,15 +21,16 @@ Recherches dataviz
 
 ## Semaine 2 
 **lundi 9/11**  
-– 9h-12h : Lionel / Clément
+– 9h-12h : Lionel
 Suivi projet  
-– 13h-16h : Lionel / Clément
+– 13h-16h : Lionel
 Suivi projets  
 
 **mardi 10/11**  
 – 10h-12h : Lionel / JB
-P5.js
+Suivi projets
 – 13h-16h : Lionel / JB  
+13h : pitches projets (5 min + 3 wireframes)
 Suivi projets  
 
 ********
@@ -37,11 +38,11 @@ Suivi projets
 ********
 
 ## Semaine 3
-lundi 16/11 - Lionel / JB  
-jeudi 19/11 - JB / Clément  
-vendredi 20/11 - Lionel / Clément 
+lundi 16/11 - Lionel  
+jeudi 19/11 - JB  
+vendredi 20/11 - Lionel
 
 ## Semaine 4
 lundi 23/11 - Lionel / JB  
-mardi 24/11 - Lionel  / Clément
+mardi 24/11 - Lionel  
 jeudi 26/11 - JB
