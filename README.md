@@ -22,7 +22,7 @@ Nous vous proposons de répondre à ce challenge en concevant **une application 
 Après une phase de recherches et de conception, vos applications seront prototypées en HTML/CSS + JS, et le code source publié dans ce repo GitHub.
 
 **Modalités de rendu**  
-* Un schéma décrivant l’architecture logicielle du programme (flowchart). Celui-ci doit représenter les données utilisées et leur manipulation par le programme, ainsi que les interactions proposées.
+* Un **schéma décrivant l’architecture logicielle du programme** (flowchart). Celui-ci doit représenter les données utilisées et leur manipulation par le programme, ainsi que les interactions proposées.
 * Un ensemble de maquettes décrivant l’application finalisée (ce que vous auriez voulu faire, ou comptez faire plus tard), prêtes à être publiées dans votre book.
 * Le prototype fonctionnel en l’état, publié sur Github avec son code commenté (surtout le js)
 * Un bilan en terme de compétences en vous appuyant sur la grille des objectifs publiée sur Github (non acquis / en cours d’acquisition / acquis)
