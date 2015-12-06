@@ -1,0 +1,23 @@
+console.clear();
+
+$(document).ready(function(){
+  $.getJSON("https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=W3ITOT7s9FsjL7mY4Ynpg0XQiHQK5XfnIoKdESQw")
+    .done(function( data ){
+      var url = data.photos[0].img_src;
+      console.log(url);
+      var img = document.createElement("img");
+      img.src = url;
+      $('body').append(img);
+      
+      var cameraName = document.createElement("h3");
+      cameraName.innerHTML = data.photos[0].camera.name;
+      $('body').append(cameraName);
+    
+      var cameraDate = document.createElement("p");
+      cameraDate.innerHTML = data.photo[0].earth_date;
+      $('body').append(cameraDate);
+    })
+    .error(function(error){
+      console.log(error);
+    });
+});

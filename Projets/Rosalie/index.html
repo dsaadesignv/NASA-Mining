@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <title>Mars Rover Curiosity </title>    
+      <link rel="stylesheet" type="text/css" href="style/css.css">
+      <script src="script/jquery-1.11.3.min.js"></script>
+</head>
+
+
+<body>
+
+                        
+    <!-- DEBUT ETAPE 1 -->
+    <div id="etape1">
+         <div id="corps">
+
+              <!-- TITRE -->
+              <h1>EXPLORE MARS</h1>
+
+              <!-- SON DE FOND -->
+              <embed src="i/fon-son.mp3" autostart="true" loop="false" hidden="true" id="son-fond"></embed>
+
+              <!-- TEXTE D'INTRO -->
+              <div class="textintro">
+                Bonjour ! Bienvenue sur Mars ! <br> Je m'appelle Louis. Et lui, c'est curiosity. <br> Choisis un point de vu en cliquant sur la caméra de ton choix
+              </div>
+
+              <!-- IMAGES DES CAMERAS -->
+              <img id='cam1'src="i/cam1-01.png">
+              <img id='cam2'src="i/cam2-01.png">
+              <img id='cam3'src="i/cam3-01.png">
+
+              <!-- CHOIX EN RADIO  -->
+              <input class="camera" type="radio" name="camera" value="navcam"> <p> NAVCAM </p><br>
+              <input class="camera" type="radio" name="camera" value="fhaz" checked> <P>FHAZ</p><br>
+              <input class="camera" type="radio" name="camera" value="mast"><p>MAST</p>
+              <!-- BOUTON CAMERA -->
+              <input id="enter" type="submit" value="enter">
+         </div>
+    </div>
+
+    <!-- DEBUT ETAPE 2 -->
+    <div id="etape2" class="invisible">
+         <div id="corps">
+
+              <!-- TITRE -->
+              <h6>EXPLORE MARS</h6>
+
+              <!-- TEXTE CHOIX DATE -->
+              <div class="text2">
+                 Maintenant choisis la date Marsienne à laquelle tu veux arriver sur Mars !
+              </div>
+
+             <!-- CHOIX DE LA DATE -->
+             <input id="date" type="text" name="date" placeholder="ENTRE 1 ET 1132">
+             <!-- BOUTON DATE -->
+             <input id="validate" type="submit" value="Validate">
+
+          </div>   
+    </div>
+
+    <!-- DEBUT ETAPE 2 -->
+    <div id="etape3" class="invisible">
+
+             <!-- LA RADIO DE DAVID BOWIE -->
+             <div id="sound">
+                  <h1>Allumer la radio</h1>
+                  <audio controls id="sound-control">
+                     <source src="i/David.mp3" type="audio/mpeg">
+                  </audio>
+             </div>
+
+             <!-- MESSAGE SI IL Y A PAS DE PHOTO -->
+             <div id="pas-image" class="invisible">
+                 <h6>PAS D'IMAGE, ESSAYE ENCORE</h6>
+             </div>
+             
+             <!-- IMAGE DE FOU -->
+             <img id="backgroundImg" src="i/jeu.png">
+
+             <!-- PHOTO DE CURIOSITY CHARGÉE PAR L'API -->
+             <img class="imagecurio invisible">
+
+             <!-- PETIT COSMONAUTE ET CURIOSITY -->
+             <img id="personnage" src="i/skate.png">
+
+                    <!-- NAVIGARTION-->
+                    <header id="bloccote">
+                          <div id="navwrap">
+                              <nav>         
+                                  <ul>    
+                                          <!-- LES LIENS SUR LE COTÉ -->
+                                          <a class="recommencer" href="index.html">
+                                              <img src="i/bouton-fin-01.png" style="height: 30px; width: 30px; margin-bottom: 10px;">
+                                              <p>RECOMMENCER</p>
+                                          </a>
+
+                                          <a class="description" href="#">
+                                              <img src="i/picto-desc.png" style="height: 60px; width: 60px; margin-bottom: 10px;">
+                                              <p>DESCRIPTION DE LA MISSION</p>
+                                          </a>
+
+                                          <a class="corps" href="#">
+                                              <img src="i/corps-picto.png" style="height: 60px; width: 60px; margin-bottom: 10px;">                                           
+                                              <p>LE CORPS DE CURIOSITY</p>
+                                          </a>
+
+                                          <a class="info-camera" href="#">
+                                              <img src="i/camera-picto.png" style="height: 60px; width: 60px; margin-bottom: 10px;">
+                                              <p>LA TÊTE DE CURIOSITY</p>
+                                          </a>
+
+                                          <a class="histoire" href="#">
+                                              <img src="i/histoire.png" style="height: 60px; width: 60px; margin-bottom: 10px;">
+                                              <p>ARRIVÉE DE CURIOSITY</p>
+                                          </a>                            
+                                  </ul>
+                              </nav> 
+                         </div>   
+                    </header>
+
+                    <!-- POPUP LA TÊTE DE CURIOSITY-->
+                    <div id="popup">            
+                          <div id="contenu-popup">
+
+                              <!-- BOUTON DE FERMETURE -->
+                              <div id="close-popup">
+                                  <span>x</span>
+                              </div>   
+
+                              <!-- TITRE   -->                     
+                              <h2> La tête de Curiosity<h2>
+                                  <p> 
+                                      <img class="vuecam1"src="i/vue1-cam.png"> 
+                                  <p>
+                          </div>
+                    </div> 
+
+
+                    <!-- POPUP 2 ARRIVÉE SUR MARS -->
+                    <div id="popup2">            
+                          <div id="contenu-popup2">
+
+                              <div id="close-popup2">                               
+                                 <span>x</span>
+                              </div>
+
+                              <h2>Arrivée sur Mars de Curiosity<h2>
+                                  <p> 
+                                      <img class="arrive"src="i/arrive.png"> 
+                                  <p>
+                          </div>
+                    </div> 
+
+
+                    <!-- POPUP 3 DESCIPTION -->  
+                    <div id="popup3">            
+                          <div id="contenu-popup3">
+
+                              <div id="close-popup3">                               
+                                  <span>x</span>
+                              </div>
+
+                              <h2>Qu'est ce que cette mission ?<h2>
+                                  <p>  
+                                     <h5>
+                                         L'exploration de Mars par Curiosity est le déroulement de la mission du rover de Mars Science Laboratory de la NASA sur la planète Mars depuis son atterrissage dans le cratère Gale le 5 août 2012. Le véhicule dispose de 75 kg d'équipements scientifiques et a pour objectif de déterminer si un environnement a pu être favorable à l'apparition de la vie.
+                                         <br>
+                                         <br>
+                                         En décembre 2012, après avoir parcouru 700 mètres vers l'est, Curiosity s'est installé sur le site de Yellowknife Bay où il a découvert des indices d'un ancien lac ou d'un ancien delta aux eaux non acides. Après y avoir effectué des analyses durant six mois, il se dirige à présent vers le sud-ouest, en direction du Mont Sharp qui, avec son empilement de couches géologiques, constitue un objectif majeur. Le 15 novembre 2015, il a franchi 12,5km.
+                                         <br>                                            
+                                      </h5> 
+                                  <p>
+                          </div>
+                    </div>
+                        
+
+                    <!-- POPUP 4 LE CORPS DE CURIOSITY -->
+                    <div id="popup4">            
+                          <div id="contenu-popup4">
+
+                              <div id="close-popup4">                              
+                                 <span>x</span>
+                              </div>
+
+                              <h2>Le corps de Curiosity<h2>
+                                  <p> 
+                                      <img class="vuecam2"src="i/vue2-cam.png">   
+                                      <img class="corps1"src="i/corps.png">  
+                                  <p>
+                          </div> 
+                    </div> 
+
+
+                    <!-- POPUP POUR LA PHOTO DE CURIOSITY -->
+                    <div id="popup-img" class='invisible'>            
+                          <div id="contenu-popup-img">
+
+                              <div id="close-popup-img">
+                                <span>x</span>
+                              </div>
+
+                          </div>
+                    </div> 
+    </div>
+
+<!-- SCRIPTE POUR FERMER LES POPUPS -->
+<script type="text/javascript" src="script/js.js"></script>
+<script>
+
+                  $(function(){
+                    $('.info-camera').click(function() {
+                      $('#contenu-popup').css('visibility', 'visible');
+                      $('#contenu-popup2').css('visibility', 'hidden');
+                      $('#contenu-popup3').css('visibility', 'hidden');
+                      $('#contenu-popup4').css('visibility', 'hidden');
+                    });
+
+                    $('#close-popup').click(function() {
+                      $('#contenu-popup').css('visibility', 'hidden');
+                    });
+                  });
+
+                  $(function(){
+                    $('.histoire').click(function() {
+                      $('#contenu-popup2').css('visibility', 'visible');
+                      $('#contenu-popup').css('visibility', 'hidden');
+                      $('#contenu-popup3').css('visibility', 'hidden');
+                      $('#contenu-popup4').css('visibility', 'hidden');
+                    });
+
+                    $('#close-popup2').click(function() {
+                      $('#contenu-popup2').css('visibility', 'hidden');
+                    });
+                  });
+
+
+                  $(function(){
+                    $('.description').click(function() {
+                      $('#contenu-popup3').css('visibility', 'visible');
+                      $('#contenu-popup2').css('visibility', 'hidden');
+                      $('#contenu-popup').css('visibility', 'hidden');
+                      $('#contenu-popup4').css('visibility', 'hidden');
+                    });
+
+                    $('#close-popup3').click(function() {
+                      $('#contenu-popup3').css('visibility', 'hidden');
+                    });
+                  });
+
+
+                  $(function(){
+                    $('.corps').click(function() {
+                      $('#contenu-popup4').css('visibility', 'visible');
+                      $('#contenu-popup2').css('visibility', 'hidden');
+                      $('#contenu-popup').css('visibility', 'hidden');
+                      $('#contenu-popup3').css('visibility', 'hidden');
+                    });
+
+                    $('#close-popup4').click(function() {
+                      $('#contenu-popup4').css('visibility', 'hidden');
+                    });
+                  });
+</script>
+
+</body>
+</html>

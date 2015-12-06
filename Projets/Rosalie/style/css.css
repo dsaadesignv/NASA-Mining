@@ -1,0 +1,493 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+/*QUE LES POPUPS SOIENT INVISIBLES AU DEBUT*/
+* #contenu-popup{
+  visibility: hidden;
+}
+
+* #contenu-popup2{
+  visibility: hidden;
+}
+
+* #contenu-popup3{
+  visibility: hidden;
+}
+
+* #contenu-popup4{
+  visibility: hidden;
+}
+
+/*LES LIENS SANS DECO*/
+a{
+  text-decoration: none;
+}
+
+/*CLASS POUR LES ETAPES ETC*/
+.invisible{
+  display:none;
+}
+.visible{
+  display:block;
+}
+                                         /*ETAPE 1 ET 2*/
+/*IMG FOND ETAPE 1 ET 2*/
+#etape1 #corps{
+background-image:url(../i/date2-01.png);
+background-size: cover;
+position: fixed;
+height:800px;
+width:100%;
+}
+#etape2 #corps{
+background-image:url(../i/date2-01.png);
+position: fixed;
+background-size: cover;
+height:800px;
+}
+
+/*LES PICTOS RONDS CAMERA ETAPE 1*/
+#etape1 img{
+  position: absolute;
+  top:0;
+  width: 100%;
+  background-size: cover;
+  z-index: 0;
+  width: 60px;
+  height: 60px;
+}
+#etape1 #cam1{ 
+margin-left: 720px;
+margin-top: 145px;
+}
+
+#etape1 #cam2{ 
+margin-left: 720px;
+margin-top: 260px;
+}
+#etape1 #cam3{ 
+margin-left: 720px;
+margin-top: 375px;
+}
+
+/*TYPO TITRE ETAPE 1*/
+#etape1 h1{
+	font-family: helvetica;
+	color: white;
+}
+
+/*TYPO TITRE ETAPE 2*/
+#etape2 h6{
+    font-family: helvetica;
+  color: white;
+  font-size: 32px;
+
+}
+
+/*TEXTE ETAPE 1*/
+.textintro {
+  color: white;
+  font-family: 'static';
+  margin-left: 700px;
+  margin-top: 20px;
+}
+
+/*TEXTE ETAPE 2*/
+.text2{
+  color: white;
+  font-family: 'static';
+  margin-left: 550px;
+  margin-top: 80px;
+}
+
+/*SELECTEUR EN RADIO ETAPE 1*/
+.camera{
+  margin-left: 800px;
+  margin-top: 55px;
+  font-family: static;
+  color: white ;
+}
+#etape1 p{
+  color: white;
+  font-family: 'static';
+  font-size: 20px;
+  margin-left: 800px;
+  margin-top: 10px;
+}
+
+/*SELECTEUR DATE ETAPE 2*/
+#etape2 #date{
+   margin-left: 665px;
+    margin-top: 30px;
+}
+
+/*BOUTON ETAPE 2*/
+#etape2 #validate{
+  font-family: helvetica;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+  background: none;
+  margin-left: 680px;
+  margin-top: 20px;
+}
+
+/*BOUTON ETAPE 1*/
+#etape1 #enter{
+  font-family: helvetica;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+  background: none;
+  margin-left: 750px;
+  margin-top: 30px;
+}
+
+
+                                                 /*ETAPE 3*/
+
+/*IMAGE DE FOND*/
+#etape3 #backgroundImg{
+  z-index:-999999;
+  position:absolute;
+}
+
+/*NAVIGATION*/
+#etape3 nav{
+  background-color: rgba(255, 255, 255, 0.01 );
+  font-family: 'Static', sans-serif;
+  margin-left: 0px;
+  padding: 0px; 
+  text-align: center; 
+}
+#etape3 nav ul a{
+  color: white;
+  display: block; 
+  font-family: 'static';
+  font-size: 15px;
+  padding-bottom: 27px;
+  padding-top: 19px;
+  text-transform: capitalize;
+}
+#navwrap{
+  margin: 0;
+}
+#bloccote{
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.2 );
+  width: 170px;
+  height: 1000px;
+  padding-right: 0px;
+  margin-left: 75px;
+  box-shadow: 1px 1px 10px #C2D1D3;
+  z-index:+70;
+}
+
+/*POPUP 1*/
+#popup{
+  position: fixed;    
+  margin-top: 100px;
+  margin-left: 500px;
+  z-index: 500;
+}
+
+#contenu-popup{
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 370px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+}
+
+#contenu-popup h2{
+  font-size: 20px;
+  font-family: static;
+  color:white;
+  width: 300px;
+  
+}
+#contenu-popup #close-popup{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+  z-index: 10; 
+} 
+/*IMAGE POPUP1*/
+.vuecam1{
+  height: 370px;
+  width: 370px;
+  left: 10px;
+  position: absolute;
+}
+
+/*POPUP2*/
+#popup2{
+  position: fixed;    
+  margin-top: 45px;
+  margin-left: 450px;
+  z-index: 500;
+}
+#contenu-popup2{
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 550px;
+  height: 530px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+}
+#contenu-popup2 h2{
+  font-size: 20px;
+  font-family: static;
+  color: white;
+  width: 300px; 
+}
+#contenu-popup2 #close-popup2{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+  z-index: 3;
+} 
+/*IMAGE POPUP 2*/
+.arrive{
+  height: 550px;
+  width: 550px;
+}
+
+
+/*POPUP3*/
+#popup3{
+  position: fixed;    
+  margin-top: 45px;
+  margin-left: 300px;
+  z-index: 500;
+}
+#contenu-popup3{
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 550px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+}
+#contenu-popup3 h2{
+  font-size: 20px;
+  font-family: static;
+  color: white;
+  width: 300px;
+}
+#contenu-popup3 #close-popup3{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+  z-index: 3;
+} 
+#etape3 h5{
+  font-size: 12px;
+  font-family: static;
+  color: white;
+  margin-top: 10px;
+  line-height:20px; 
+}
+
+
+/*POPUP 4 */
+#popup4{
+  position: fixed;    
+  margin-top: 150px;
+  margin-left: 300px;
+  z-index: 500;
+}
+#contenu-popup4{
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 750px;
+  height: 320px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+}
+#contenu-popup4 h2{
+  font-size: 20px;
+  font-family: static;
+  color: white;
+  width: 300px; 
+}
+#contenu-popup4 #close-popup4{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+} 
+.vuecam2{
+  height: 350px;
+  width: 350px;
+  float: left;
+  left: 310px;
+  margin-top: 1px;
+  position: absolute;
+}
+.corps1{
+  height: 270px;
+  width: 270px;
+  left: 10px;
+  margin-top: 50px;
+  position: absolute;
+}
+
+/*POPUP IMG*/
+#popup-img{
+  position: fixed;    
+  margin-top: 20px;
+  margin-left: 340px;
+  z-index: 500;
+}
+#contenu-popup-img{
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 760px;
+  height: 390px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+}
+#contenu-popup-img #close-popup-img{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+  z-index: 10;  
+} 
+/*FERMER LE POPUP ET LA PHOTO DE CURIOSITY*/
+.close-img{
+  font-family:Arial, Helvetica, bold;
+  width: 25px;
+  height: 25px;
+  background-color:rgba(255, 255, 255, 0.01 );
+  border: 4px solid white;
+  text-align: center;
+  vertical-align: center;
+  color:white;
+  border-radius: 20px;
+  float: right;
+  z-index: 999;
+} 
+
+
+
+/*PERSONNAGES*/
+#etape3 #personnage{
+width:800px;
+margin-top: 160px;
+position: fixed;
+z-index: -998;
+}
+
+
+/*API*/
+.imagecurio { /*On indique le l'image est a l'arrière plan,*/
+  position: fixed;
+  width: 60%; /*100% de la taille de la fenêtre internet affichée*/
+  height: 60%;
+  z-index: -999; /*L'image est sur le calque en -999, soit hyper arrière plan*/
+  top:40px;
+  left:350px;
+  border:none ;
+}
+
+/*BOUTON PETIT +*/
+.bouton{
+  position:absolute;
+  height: 40px;
+  width: 40px;
+  z-index: 900;
+}
+
+/*MESSAGE SI IL Y A PAS DE PHOTO OU UNE ERREUR*/
+#pas-image{
+  position: absolute;
+  text-align: center;
+  font-color:white;
+  font-family: static;
+  color: white;
+  font-size: 20px;
+  top:230px;
+  left:600px;
+  position: fixed;
+}
+
+/*TESTE DE CSSISATION DU LECTEUR SON*/
+#sound {
+  box-shadow: 1px 1px 10px #C2D1D3;
+  background-color: rgba(255, 255, 255, 0.1 );
+  width: 300px;
+  height: 50px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 0px;
+  top: 570px;
+  position: fixed;
+  left:950px;
+}
+
+/*EVITER UNE MARGE*/
+#son-fond{
+  position: absolute;
+}
+
+/*TEXTE DE SOUND*/
+#etape3 h1{
+  color: white;
+  font-family: 'static';
+  font-size: 20px;
+  margin-bottom:10px;
+
+}
+
+
+
+
+
+

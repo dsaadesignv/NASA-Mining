@@ -1,7 +1,0 @@
-commande à lancer à partir du dossier de travail
-C:\Users\Yann\Desktop\helloJS>
-
-python -m SimpleHTTPServer
-
-Ensuite taper dans chrome "localhost:8000" (sans les guillemets)
-Pour accéder au server python.
