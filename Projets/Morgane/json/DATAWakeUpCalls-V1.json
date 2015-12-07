@@ -1,0 +1,3107 @@
+[
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/25/2002",
+    "title": "I Need You Like a Hole in My Head",
+    "artist": "Sting",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/26/2002",
+    "title": "Gimme All Your Lovin'",
+    "artist": "ZZ Top",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/27/2002",
+    "title": "Copperhead Road",
+    "artist": "Steve Earle",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/28/2002",
+    "title": "Figaro's Wedding",
+    "artist": "Mozart",
+    "chooser": 0,
+    "comment": "From the movie"
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/29/2002",
+    "title": "Quiet Flame",
+    "artist": "Leap Year",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "11/30/2002",
+    "title": "Walkin' on Sunshine",
+    "artist": "Kylie Minogue",
+    "chooser": "Paul Lockhart's daughters",
+    "comment": "Selected by Paul Lockhart's daughters. Capcom Joan Higgenbotham radioed up the music and said"
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/01/2002",
+    "title": "Roll With It",
+    "artist": "Steve Winwood",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/02/2002",
+    "title": "Cheesty Proody",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "(phonetic spelling) which means “Clear Ponds” in Russian, by Igor Talkov"
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/03/2002",
+    "title": "Flot",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "(phonetic spelling) which means"
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/04/2002",
+    "title": "The Ketchup Song (Aserejé)",
+    "artist": "Las Ketchup",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/05/2002",
+    "title": "Hotel California",
+    "artist": "The Eagles",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/06/2002",
+    "title": "I Got You Babe",
+    "artist": "Sonny and Cher",
+    "chooser": 0,
+    "comment": "Clips from the movie “Groundhog Day” (“I Got You Babe”) and the television game show  “Jeopardy”. The “Groundhog Day” was a reference to the multiple landing attempts. At this point STS-113 tied the previous record of two additional extensions waiting for good weather. With the additional day beyond that, they set a new record for the number of landing tries. The Jeopardy theme music was a running gag between Mike Lopez-Alegria and the Capcoms where he would pose various questions about the mission's status as quizzes. At one point the Capcom answered one of L-A's queries, and he replied “But you forgot to phrase it in the form of a question.” The evening before when MCC said goodnight a Capcom cautioned “the wakeup music may sound familiar.” Wetherbee replied “How will we know?” (a reference to the repeating cycle in the movie “Groundhog Day”. PC"
+  },
+  {
+    "mission": "STS-113",
+    "duration": "11/23/2002-12/07/2002",
+    "date": "12/07/2002",
+    "title": "I'll Be Home for Christmas",
+    "artist": "Perry Como",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/16/2003",
+    "title": "EMA EMA",
+    "artist": 0,
+    "chooser": "Blue Team - Dedicated to Dave Brown. PC",
+    "comment": 0
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/16/2003",
+    "title": "America the Beautiful",
+    "artist": "Samuel A. Ward",
+    "chooser": 0,
+    "comment": "Red Team - The Texas Elementary Honors Choir with Rick Husband's daughter, Laura"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/17/2003",
+    "title": "Coming Back to Life",
+    "artist": "Pink Floyd.",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Willie McCool. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/17/2003",
+    "title": "Space Truckin'",
+    "artist": "Deep Purple",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Kalpana Chawla. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/18/2003",
+    "title": "Cultural Exchange",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Dave Brown. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/18/2003",
+    "title": "Hatishma Koli",
+    "artist": "Hachalonot Hgvohim",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Ilan Ramon. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/19/2003",
+    "title": "Fake Plastic Trees",
+    "artist": "Radiohead",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Willie McCool. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/19/2003",
+    "title": "Amazing Grace",
+    "artist": "Eric Rigler",
+    "chooser": 0,
+    "comment": "Red Team - Black Watch and 51 Band of Highland Brigade. Dedicated to Laurel Clark - The same song on bagpipes was played at her wedding, for the wakeup in space, and at her funeral. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/20/2003",
+    "title": "Texan 60",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Dave Brown. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/20/2003",
+    "title": "God of Wonders",
+    "artist": "Steve Green",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Rick Husband. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/21/2003",
+    "title": "The Wedding Song",
+    "artist": "Paul Stookey",
+    "chooser": 0,
+    "comment": "Blue Team - For Pilot Willie McCool."
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/21/2003",
+    "title": "Prabhati",
+    "artist": "Ravi Shankar",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Kalpana Chawla. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/22/2003",
+    "title": "Hakuna Matata",
+    "artist": "The Baha Men",
+    "chooser": "Anderson's two kids",
+    "comment": "Blue Team - For Anderson. From the movie"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/22/2003",
+    "title": "Ma ata osheh kesheata kam baboker?",
+    "artist": "Arik Einstein",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Ilan Ramon. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/23/2003",
+    "title": "Burning Down the House",
+    "artist": "Talking Heads",
+    "chooser": 0,
+    "comment": "Blue Team - In honor of combustion experiments on this flight"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/23/2003",
+    "title": "Kung Fu Fighting",
+    "artist": "Carl Douglas",
+    "chooser": 0,
+    "comment": "Red Team - The crew had a stuffed hamster toy which played that song. It was their 'mascot' and they took it everywhere during their training. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/24/2003",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "chooser": "Pilot William McCool's family",
+    "comment": "Blue Team - Performed by Pilot William McCool's family (Josie McCool, Shawn McCool). The family members were Sean McCool on the guitar, his former girlfriend (but still friend) Josee Julian, and Josee's father Frank also on guitar. (Reference - an email to me from Lani McCool) PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/24/2003",
+    "title": "The Prayer",
+    "artist": "Celine Dion",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Rick Husband. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/25/2003",
+    "title": "I Say a Little Prayer",
+    "artist": "Dionne Warwick",
+    "chooser": "Anderson's wife",
+    "comment": "Blue Team - Played for Anderson from his wife"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/25/2003",
+    "title": "Drops of Jupiter",
+    "artist": "Train",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Kalpana Chawla. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/26/2003",
+    "title": "When Day is Done",
+    "artist": "Django Reinhardt",
+    "chooser": "Capcom Charlie Hobaugh",
+    "comment": "Blue Team - Dedicated to Dave Brown. Capcom Charlie Hobaugh said,"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/26/2003",
+    "title": "Love of My Life",
+    "artist": "Queen",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Ilan Ramon. A videotape of the wakeup activities survived the accident. PC."
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/27/2003",
+    "title": "Slow Boat to Rio",
+    "artist": "Earl Klugh",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Mike Anderson. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/27/2003",
+    "title": "Running to the Light",
+    "artist": "Runrig",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Laurel Clark PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/28/2003",
+    "title": "I Get Around",
+    "artist": "The Beach Boys",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Dave Brown. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/28/2003",
+    "title": "Up on the Roof",
+    "artist": "James Taylor",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Rick Husband. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/29/2003",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "chooser": 0,
+    "comment": "Blue Team - McCool and Ramon said their observations from orbit reveal no borders on the Earth below and reiterated in both English and Hebrew their hopes for peace in the world. Dedicated to Willie McCool. PC. “Imagine” was played at Ilan Ramon’s funeral as his funeral dirge. The mourners listened to the recording sent to the astronauts, which ended with Ilan's voice translating Lennon's words into Hebrew:"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/29/2003",
+    "title": "Yaar ko hamne ja ba ja dekha",
+    "artist": "Abita Parveen",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Kalpana Chawla. A videotape of the crew activities during this wakeup call survived the accident. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/30/2003",
+    "title": "Silver Inches",
+    "artist": "Enya",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Dave Brown. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/30/2003",
+    "title": "Shalom lach eretz nehederet",
+    "artist": "Yehoram Gaon",
+    "chooser": 0,
+    "comment": "Red Team - Dedicated to Ilan Ramon - The tune is the same as Arlo Guthrie's"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/31/2003",
+    "title": "If You've Been Delivered",
+    "artist": "Kirk Franklin",
+    "chooser": 0,
+    "comment": "Blue Team - Dedicated to Mike Anderson. PC"
+  },
+  {
+    "mission": "STS-107",
+    "duration": "01/16/2003-02/01/2003",
+    "date": "01/31/2003",
+    "title": "Scotland the Brave",
+    "artist": "The Highlands bagpipes",
+    "chooser": 0,
+    "comment": "Red Team - By The Black Watch and the band of the 51st Highland Brigade. Dedicated to Laurel Clark PC"
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/26/2005",
+    "title": "Groundhog Day Movie Excerpts",
+    "artist": "Harold Ramis",
+    "chooser": 0,
+    "comment": "Excerpts from the movie"
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/27/2005",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "The Station crew was awakened at the same time by a tone onboard."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/28/2005",
+    "title": "Vertigo",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "Played for Pilot Jim Kelly. Capcom Shannon Lucid noted during the wakeup call that Kelly, whose nickname is “Vegas,” was promoted to Colonel in the U.S. Air Force recently. The Station crew was awakened at 11:09 p.m. CDT by a tone onboard."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/29/2005",
+    "title": "Sanpo",
+    "artist": "Azumi Inoue",
+    "chooser": 0,
+    "comment": "Performed by the chorus from the Japanese School of Houston. It is made up of a group of children, including Noguchi's. The Station crew was awakened at 11:09 p.m. CDT by a tone onboard."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/30/2005",
+    "title": "I'm Goin' Up",
+    "artist": "Claire Lynch",
+    "chooser": 0,
+    "comment": "For Mission Specialist Wendy Lawrence. The Space Station crew was awakened about the same time by a tone onboard."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "07/31/2005",
+    "title": "Walk of Life",
+    "artist": "Dire Straits",
+    "chooser": "CAPCOM Shannon Lucid",
+    "comment": "For Steve Robinson. The Space Station crew was awakened at 10:39 p.m. CDT by a tone onboard. CAPsule COMmunicator (CAPCOM) Shannon Lucid radioed the crew with Dire Straits'"
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/01/2005",
+    "title": "Big Rock Candy Mountain",
+    "artist": "Harry McClintock",
+    "chooser": 0,
+    "comment": "For Mission Specialist Andy Thomas."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/02/2005",
+    "title": "Where My Heart Will Take Me",
+    "artist": "Russell Watson",
+    "chooser": "Dennis McCarthy",
+    "comment": "The theme song from “Star Trek: Enterprise.” This song was selected for the crew as a surprise dedication from the Deputy Shuttle Program Manager Wayne Hale. (This selection was identified as composed by Dennis McCarthy in STS-114 MCC Status Report #16. Though McCarthy did write the orchestral suites for the “Star Trek” TV series he did not write this. It was written by Diane Warren originally as “Faith of the Heart” for the soundtrack of the film, “Patch Adams” and sung by Rod Stewart. Then, virtually the identical song was renamed and used as the theme for “Enterprise” -- this time sung by British tenor, Russell Watson - CAF)"
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/03/2005",
+    "title": "Amarillo by Morning",
+    "artist": "George Strait",
+    "chooser": 0,
+    "comment": "Expedition 11 crew of Commander Sergei Krikalev and Flight Engineer and NASA ISS Science Officer John Phillips, woke up 30 minutes later."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/04/2005",
+    "title": "Anchors Aweigh",
+    "artist": "Charles A. Zimmermann",
+    "chooser": "Commander Eileen Collins",
+    "comment": "Dedicated to Mission Specialist Wendy Lawrence at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/05/2005",
+    "title": "The Air Force Song",
+    "artist": "Robert MacArthur Crawford",
+    "chooser": "Commander Eileen Collins",
+    "comment": "Dedicated to Pilot Jim Kelly, a colonel in the U.S. Air Force, at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later.\nSTS-114,07/26/2005-08/09/2005,08/06/2005,The One and Only Flower in the World,SMAP,,"
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/07/2005",
+    "title": "Come On Eileen",
+    "artist": "Dexy's Midnight Runners",
+    "chooser": "Mission Control Team",
+    "comment": "It was played for Discovery's Commander Eileen Collins from the Mission Control Team."
+  },
+  {
+    "mission": "STS-114",
+    "duration": "07/26/2005-08/09/2005",
+    "date": "08/08/2005",
+    "title": "Good Day Sunshine",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/05/2006",
+    "title": "Lift Every Voice and Sing",
+    "artist": "John Rosamond Johnson",
+    "chooser": 0,
+    "comment": "Played by New Galveston Chorale, for Mission Specialist Stephanie Wilson."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/06/2006",
+    "title": "Daniel",
+    "artist": "Elton John",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Thomas Reiter in honor of his son."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/07/2006",
+    "title": "Good Day Sunshine",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Lisa Nowak."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/08/2006",
+    "title": "God of Wonders",
+    "artist": "Mark Byrd",
+    "chooser": "Mike Fossum's family",
+    "comment": "Played for Mission Specialist Mike Fossum."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/09/2006",
+    "title": "I Had a Dream",
+    "artist": "ABBA",
+    "chooser": "Mark Kelly's daughters",
+    "comment": "For Shuttle Pilot Mark Kelly. Requested by his daughters, Claire and Claudia. Mark had a dream as a young boy-- he wanted to go to space and float with the stars. So, on the sixth day of the mission, he was coaxed from his sleeping bag on the ceiling by the music of ABBA. He responded by saying:"
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/10/2006",
+    "title": "Clocks",
+    "artist": "Coldplay",
+    "chooser": "Piers Sellers's family",
+    "comment": "For Mission Specialist Piers Sellers."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/11/2006",
+    "title": "All Star",
+    "artist": "Smashmouth",
+    "chooser": "Lisa Nowak's family",
+    "comment": "For Mission Specialist Lisa Nowak."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/12/2006",
+    "title": "I Believe I Can Fly",
+    "artist": "R. Kelly",
+    "chooser": 0,
+    "comment": "For Mission Specialist Stephanie Wilson."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/13/2006",
+    "title": "Charlies Angels theme",
+    "artist": "Jack Elliott",
+    "chooser": 0,
+    "comment": "Theme from the television show “Charlies Angels” for the entire STS-121 crew from their training team."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/14/2006",
+    "title": "Aggie War Hymn",
+    "artist": "Aggie War Hymn",
+    "chooser": 0,
+    "comment": "Played by the Fightin' Texas Aggie Band, for Mission Specialist Mike Fossum, a graduate of Texas A&M University. According to Mission Control, the selection was sent by Fossum's wife. He is the first Texas A&M graduate in space ."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/15/2006",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "For Pilot Mark Kelly, on undocking day."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "07/16/2006",
+    "title": "Just Like Heaven",
+    "artist": "The Cure",
+    "chooser": "Piers Sellers's family",
+    "comment": "For Mission Specialist Piers Sellers."
+  },
+  {
+    "mission": "STS-121",
+    "duration": "07/04/2006-07/17/2006",
+    "date": "The Astronaut",
+    "title": "Something Corporate",
+    "artist": 0,
+    "chooser": "For Commander Steve Lindsey.",
+    "comment": 0
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/10/2006",
+    "title": "Moon River",
+    "artist": "Audrey Hepburn",
+    "chooser": "commander Jett's wife",
+    "comment": "For Brent Jett."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/11/2006",
+    "title": 0,
+    "artist": 0,
+    "chooser": 0,
+    "comment": "A solo cello performance for Mission Specialist Dan Burbank."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/12/2006",
+    "title": "My Friendly Epistle",
+    "artist": "Taras Shevchenko",
+    "chooser": 0,
+    "comment": "An Ukrainian song by Taras Shevchenko. It was played for Heide Stefanyshyn-Piper."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/13/2006",
+    "title": "Takin' Care of Business",
+    "artist": "Bachman-Turner Overdrive",
+    "chooser": 0,
+    "comment": "For Mission specialist Steve MacLean."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/14/2006",
+    "title": "Wipe Out",
+    "artist": "The Surfaris",
+    "chooser": 0,
+    "comment": "For Pilot Chris Ferguson."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/15/2006",
+    "title": "Hotel California",
+    "artist": "The Eagles",
+    "chooser": 0,
+    "comment": "For Mission Specialist Joe Tanner."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/16/2006",
+    "title": "Twelve Volt Man",
+    "artist": "Jimmy Buffett",
+    "chooser": 0,
+    "comment": "For Mission Specialist Dan Burbank."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/17/2006",
+    "title": "Danger Zone",
+    "artist": "Kenny Loggins",
+    "chooser": 0,
+    "comment": "For Pilot Chris Ferguson."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/18/2006",
+    "title": "Rocky Mountain High",
+    "artist": "John Denver",
+    "chooser": 0,
+    "comment": "For Mission Specialist Joe Tanner."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/19/2006",
+    "title": "Ne Partez Pas Sans Moi (Don't Leave Without Me)",
+    "artist": "Celine Dion",
+    "chooser": 0,
+    "comment": "For Mission Specialist Steve MacLean."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/20/2006",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "For Mission Specialist Heidemarie Stefanyshyn-Piper."
+  },
+  {
+    "mission": "STS-115",
+    "duration": "09/09/2006-09/21/2006",
+    "date": "09/21/2006",
+    "title": "WWOZ",
+    "artist": "Better Than Ezra",
+    "chooser": 0,
+    "comment": "For Commander Brent Jett."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/10/2006",
+    "title": "Here Comes the Sun",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": "For Mark Polansky."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/11/2006",
+    "title": "Beep Beep",
+    "artist": "Louis Prima",
+    "chooser": 0,
+    "comment": "For Sunita Williams."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/12/2006",
+    "title": "Waterloo",
+    "artist": "ABBA",
+    "chooser": 0,
+    "comment": "For Christer Fuglesang who is from Sweden. “Nice music this morning,” Fuglesang said from the Quest airlock, where he spent the night preparing for the spacewalk with Curbeam."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/13/2006",
+    "title": "Suavemente",
+    "artist": "Elvis Crespo",
+    "chooser": 0,
+    "comment": "Played for Joan Higginbotham."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/14/2006",
+    "title": "Under Pressure",
+    "artist": "Queen",
+    "chooser": 0,
+    "comment": "For Robert Curbeam."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/15/2006",
+    "title": "Low Rider",
+    "artist": "War",
+    "chooser": 0,
+    "comment": "Played for William Oefelein."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/16/2006",
+    "title": "Fanfare for the Common Man",
+    "artist": "Aaron Copeland",
+    "chooser": 0,
+    "comment": "Performed by the London Philharmonic Orchestra. The music was played for Nicholas Patrick."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/17/2006",
+    "title": "Beautiful Blue Danube",
+    "artist": "Johann Strauss II",
+    "chooser": 0,
+    "comment": "Played by the Vienna Philharmonic Orchestra"
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/18/2006",
+    "title": "Good Vibrations",
+    "artist": "The Beach Boys",
+    "chooser": 0,
+    "comment": "For the entire crew in honor of the vibrations the spacewalkers may create today to attempt to free the balky solar panels."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/19/2006",
+    "title": "The Zamboni Song",
+    "artist": "The Gear Daddies",
+    "chooser": 0,
+    "comment": "The song, dedicated to the entire crew, was requested by the training team who sent a message to Oefelein saying they had arranged for him to fly the shuttle half a lap around the station."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/20/2006",
+    "title": "Say You’ll be Mine",
+    "artist": "Christopher Cross",
+    "chooser": 0,
+    "comment": "For Thomas Reiter."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/21/2006",
+    "title": "The Road Less Traveled",
+    "artist": "Joe Sample",
+    "chooser": 0,
+    "comment": "For Higginbotham."
+  },
+  {
+    "mission": "STS-116",
+    "duration": "12/09/2006-12/22/2006",
+    "date": "12/22/2006",
+    "title": "Home for the Holidays",
+    "artist": "Perry Como",
+    "chooser": "Mission Control Center",
+    "comment": "For the crew."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/09/2007",
+    "title": "Big Boy Toys",
+    "artist": "Aaron Tippin",
+    "chooser": 0,
+    "comment": "Sounded on board the orbiter at 9:10 a.m. CDT, played for Commander Rick Sturckow."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/10/2007",
+    "title": "Riding the Sky",
+    "artist": "David Kelldorf",
+    "chooser": 0,
+    "comment": "Written and performed by Johnson Space Center employees David Kelldorf and Brad Loveall for Mission Specialist Clayton Anderson in honor of his move to the space station."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/11/2007",
+    "title": "It Probably Always Will",
+    "artist": "Ozark Mountain Daredevils",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Steven Swanson."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/12/2007",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Danny Olivas."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/13/2007",
+    "title": "Questions 67 and 68",
+    "artist": "Chicago",
+    "chooser": 0,
+    "comment": "Played for Pilot Lee Archambault."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/14/2007",
+    "title": "Indescribable",
+    "artist": "Chris Tomlin",
+    "chooser": 0,
+    "comment": "For Mission Specialist Patrick Forrester."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/15/2007",
+    "title": "Radar Love",
+    "artist": "Golden Earring",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Steve Swanson."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/16/2007",
+    "title": "El Paso Fight Song",
+    "artist": "UTEP",
+    "chooser": 0,
+    "comment": "Performed by the UTEP Pep Band, was played for Mission Specialist (and UTEP alumnus) John “Danny” Olivas at 7:38 a.m. CDT."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/17/2007",
+    "title": "Band of Brothers theme",
+    "artist": "Michael Kamen",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Jim Reilly."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/18/2007",
+    "title": "Redeemer",
+    "artist": "Nicole C. Mullen",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Patrick Forrester."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/19/2007",
+    "title": "Feelin’ Stronger Every Day",
+    "artist": "Chicago",
+    "chooser": 0,
+    "comment": "Played for Pilot Lee Archambault."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/20/2007",
+    "title": "If I Had $1000000",
+    "artist": "Barenaked Ladies",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Suni Williams."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/21/2007",
+    "title": "Makin’ Good Time Coming Home",
+    "artist": "John Arthur Martinez",
+    "chooser": 0,
+    "comment": "Played for Commander Rick Sturckow and Mission Specialist Jim Reilly."
+  },
+  {
+    "mission": "STS-117",
+    "duration": "06/08/2007-06/22/2007",
+    "date": "06/22/2007",
+    "title": "The Marines’ Hymn",
+    "artist": "Jacques Offenbach",
+    "chooser": 0,
+    "comment": "Played for the mission commander, Col. Rick Sturckow, USMC."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/09/2007",
+    "title": "Where My Heart Will Take Me",
+    "artist": "Russell Watson",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Rick Mastracchio."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/10/2007",
+    "title": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "chooser": 0,
+    "comment": "It was played for Commander Scott Kelly."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/11/2007",
+    "title": "Gravity",
+    "artist": "John Mayer",
+    "chooser": 0,
+    "comment": "It was played for Pilot Charles Hobaugh."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/12/2007",
+    "title": "Up!",
+    "artist": "Twain",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Dave Williams."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/13/2007",
+    "title": "Outta Space",
+    "artist": "Billy Preston",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Alvin Drew."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/14/2007",
+    "title": "Happy Birthday Tracy",
+    "artist": "Happy Birthday",
+    "chooser": "Tracy Caldwell's mother Mary Ellen Caldwell",
+    "comment": "Performed by children in an extended day care program run by Tracy Caldwell's mother, Mary Ellen Caldwell, at the Beaumont Cherry Valley Recreation and Park District's Noble Creek Community Center in recognition of the day’s significance."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/15/2007",
+    "title": "Good Morning World",
+    "artist": "Adam Morgan",
+    "chooser": 0,
+    "comment": "It was written and performed by Mission Specialist Barbara Morgan’s son Adam."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/16/2007",
+    "title": "Times Like These",
+    "artist": "The Foo Fighters",
+    "chooser": 0,
+    "comment": "It was for Mission Specialist Rick Mastracchio."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/17/2007",
+    "title": "Black Horse and the Cherry Tree",
+    "artist": "KT Tunstall",
+    "chooser": 0,
+    "comment": "For Mission Specialist Tracy Caldwell."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/18/2007",
+    "title": "Learn to Fly",
+    "artist": "The Foo Fighters",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Alvin Drew."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/19/2007",
+    "title": "Teacher Teacher",
+    "artist": "38 Special",
+    "chooser": 0,
+    "comment": "It was for Mission Specialist Barbara Morgan."
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/20/2007",
+    "title": "Flying",
+    "artist": "Long John Baldry Trio",
+    "chooser": 0,
+    "comment": "It was for Williams"
+  },
+  {
+    "mission": "STS-118",
+    "duration": "08/08/2007-08/21/2007",
+    "date": "08/21/2007",
+    "title": "Homeward Bound",
+    "artist": "Simon & Garfunkel",
+    "chooser": 0,
+    "comment": "It was for the entire crew."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/24/2007",
+    "title": "Lord of the Dance",
+    "artist": "John Langstaff",
+    "chooser": 0,
+    "comment": "Played for Commander Pam Melroy."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/25/2007",
+    "title": "Dancing in the Moonlight",
+    "artist": "King Harvest",
+    "chooser": 0,
+    "comment": "For astronaut Dan Tani."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/26/2007",
+    "title": "Rocket Man (I Think It’s Going To Be a Long",
+    "artist": "Long Time)",
+    "chooser": "Elton John",
+    "comment": 0
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/27/2007",
+    "title": "Bellissime Stelle (Beautiful Stars)",
+    "artist": "Andrea Bocelli",
+    "chooser": 0,
+    "comment": "Played for European Space Agency astronaut Paolo Nespoli of Italy, the country where the new node, Harmony, was built."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/28/2007",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Scott Parazynski on the day he makes his second spacewalk of the mission."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/29/2007",
+    "title": "One by One",
+    "artist": "Wynton Marsalis",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Stephanie Wilson, one of the robot arm operators for this morning’s hand off of the P6 truss element between the shuttle and station robot arms."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/30/2007",
+    "title": "Malaguena Salerosa",
+    "artist": "Chingon",
+    "chooser": 0,
+    "comment": "Played for Pilot George Zamka, who will be operating the shuttle robotic arm."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "10/31/2007",
+    "title": "Nel Blu Dipinto di Blu",
+    "artist": "Domenico Modugno",
+    "chooser": 0,
+    "comment": "For Mission Specialist Paolo Nespoli. The song’s title translates as “In the blue (sky), painted blue;” it is widely known as “Volare.”"
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/01/2007",
+    "title": "The Lion Sleeps Tonight",
+    "artist": "Robert John",
+    "chooser": 0,
+    "comment": "The song was chosen by the crew’s training team."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/02/2007",
+    "title": "World",
+    "artist": "Five for Fighting",
+    "chooser": 0,
+    "comment": "For Mission Specialist Doug Wheelock, who will be performing his third spacewalk on Saturday. Wheelock dedicated the song to the ground support team."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/03/2007",
+    "title": "Star Wars theme",
+    "artist": "John Williams",
+    "chooser": 0,
+    "comment": "The crews of Space Shuttle Discovery and the station were awakened this morning at 12:38 with composer John Williams’ theme song from the original “Star Wars“ movie trilogy. The song was played for Parazynski."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/04/2007",
+    "title": "The Presence of the Lord",
+    "artist": "Kurt Carr",
+    "chooser": 0,
+    "comment": "The crews of Discovery and the International Space Station were awakened before the change from daylight to standard time. The crew was roused at 1:08 a.m. CDT with the song “The Presence of the Lord,” written by gospel musician Kurt Carr, originally recorded by Byron Cage. Cage’s rendition was played for Mission Specialist Stephanie Wilson. Crew member Stephanie Wilson says she appreciates the selection. She says being in space has made her"
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/05/2007",
+    "title": "Roll Me Away",
+    "artist": "Bob Seger",
+    "chooser": 0,
+    "comment": "Played for Pilot George Zamka, who will be at the controls of Discovery when it undocks from the station. “That’s a great song about a road trip and we’ve had a great one, but it’s time to turn around and head for home,”astronaut George Zamka said."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/06/2007",
+    "title": "Space Truckin",
+    "artist": "Deep Purple",
+    "chooser": 0,
+    "comment": "Played for Expedition 15/16 Flight Engineer and Mission Specialist Clay Anderson, who will wrap up a five-month mission to the International Space Station when Discovery lands."
+  },
+  {
+    "mission": "STS-120",
+    "duration": "10/23/2007-11/07/2007",
+    "date": "11/07/2007",
+    "title": "Chitty Chitty Bang Bang",
+    "artist": "Sherman and Sherman",
+    "chooser": 0,
+    "comment": "Played for Commander Pam Melroy."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/08/2008",
+    "title": "The Book of Love",
+    "artist": "Peter Gabriel",
+    "chooser": 0,
+    "comment": "Played for European Space Agency astronaut Leopold Eyharts at 3:45 a.m. CST."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/09/2008",
+    "title": "Tishomingo Blues",
+    "artist": "Spencer Williams",
+    "chooser": 0,
+    "comment": "The theme song from Garrison Keillor’s radio variety show A Prairie Home Companion with lyrics written especially for the show."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/10/2008",
+    "title": "Maenner",
+    "artist": "Herbert Groenemeyer",
+    "chooser": 0,
+    "comment": "By German musician Herbert Groenemeyer for astronaut Hans Schlegel. “Maenner” translated is “Men.” Groenemeyer is also known for his portrayal of Lieutenant Werner in Wolfgang Petersen’s movie Das Boot. Schlegel responded:"
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/11/2008",
+    "title": "Fly Like an Eagle",
+    "artist": "Steve Miller",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Leland Melvin on the day he will use the station’s robotic arm to lift the Columbus research module from Atlantis’ payload bay."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/12/2008",
+    "title": "Dream Come True",
+    "artist": "Jim Brickman",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rex Walheim."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/13/2008",
+    "title": "Oysters and Pearls",
+    "artist": "Jimmy Buffett",
+    "chooser": 0,
+    "comment": "Played for Pilot Alan Poindexter."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/14/2008",
+    "title": "Consider Yourself at Home",
+    "artist": "Lionel Bart",
+    "chooser": 0,
+    "comment": "The song, which is from the musical Oliver!, was played for Mission Specialist Stanley Love."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/15/2008",
+    "title": "Marmor Stein und Eisen Bricht",
+    "artist": "Drafi Deutscher",
+    "chooser": 0,
+    "comment": "The song’s title translates as “Marble Breaks and Iron Bends.” It was played for Mission Specialist Hans Schlegel, a European Space Agency astronaut from Germany."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/16/2008",
+    "title": "I Believe I Can Fly",
+    "artist": "Yolanda Adams and Kenny G",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Leland Melvin."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/17/2008",
+    "title": "Hail Thee",
+    "artist": "Harvey Mudd",
+    "chooser": 0,
+    "comment": "The Harvey Mudd College anthem written by Amy Lewkowicz for Mission Specialist Stan Love. Love is a 1987 graduate of the Claremont, Calif., private math, science and engineering college."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/18/2008",
+    "title": "Over the Rainbow / What a Wonderful World",
+    "artist": "Israel Kamakawiwo'ole",
+    "chooser": "Tani's wife and daughters",
+    "comment": "Sung by Hawaiian-Japanese vocalist Israel Kamakawiwo'ole, accompanied by his ukulele for crew member Dan Tani. The song was chosen for Tani by his wife Jane and their two young daughters, Keiko and Lilly."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/19/2008",
+    "title": "Always Look on the Bright Side of Life",
+    "artist": "Monty Python",
+    "chooser": 0,
+    "comment": "The Spamalot rendition of “Always Look on the Bright Side of Life” played for Commander Steve Frick."
+  },
+  {
+    "mission": "STS-122",
+    "duration": "02/07/2008-02/20/2008",
+    "date": "02/20/2008",
+    "title": "Hail to the Spirit of Liberty",
+    "artist": "John Philip Sousa",
+    "chooser": 0,
+    "comment": "For Pilot Alan Poindexter."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/11/2008",
+    "title": "Linus & Lucy",
+    "artist": "Vince Guaraldi Trio",
+    "chooser": 0,
+    "comment": "The song, which is from the album “Charlie Brown Christmas” was played for Mission Specialist Mike Foreman."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/12/2008",
+    "title": "Godzilla Versus Space Godzilla Songs",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "The wakeup call for the morning was a combination of fight scene music from the Japanese movie “Godzilla Versus Space Godzilla” and the Blue Oyster Cult song “Godzilla.” The songs were played for Japanese Space Agency astronaut Takao Doi."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/13/2008",
+    "title": "Saturday Night",
+    "artist": "Bay City Rollers",
+    "chooser": 0,
+    "comment": "Played for the station’s newest crew member, Flight Engineer Garrett Reisman."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/14/2008",
+    "title": "Turn! Turn! Turn! (To Everything There is a Season)",
+    "artist": "The Byrds",
+    "chooser": 0,
+    "comment": "The song was played for Mission Specialist Rick Linnehan."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/15/2008",
+    "title": "We’re Going to be Friends",
+    "artist": "The White Stripes",
+    "chooser": 0,
+    "comment": "The song was played for Mission Specialist Robert L. Behnken."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/16/2008",
+    "title": "God of Wonders",
+    "artist": "Caedmon’s Call”",
+    "chooser": 0,
+    "comment": "The song was played for Endeavour’s commander, Dominic Gorie."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/17/2008",
+    "title": "Sharing the World",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "A song written by Pilot Gregory H. Johnson’s brother."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/18/2008",
+    "title": "Hoshi Tsumugi no Uta",
+    "artist": "Ayaka Hirahara",
+    "chooser": 0,
+    "comment": "A Japanese song that translates to “Song of Spinning Stars”. The song was played for Mission Specialist Takao Doi, a Japan Aerospace Exploration Agency astronaut."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/19/2008",
+    "title": "Burning Love",
+    "artist": "Elvis Presley",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Mike Foreman."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/20/2008",
+    "title": "Blue Sky",
+    "artist": "Big Head Todd and the Monsters",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rick Linnehan, who will serve as the spacewalk coordinator for today’s 6.5-hour-long excursion by Mission Specialists Robert L. Behnken and Mike Foreman."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/21/2008",
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "chooser": 0,
+    "comment": "The song was played for Mission Specialist Robert L. Behnken."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/22/2008",
+    "title": "I Loved Her First",
+    "artist": "Heartland",
+    "chooser": 0,
+    "comment": "The song was played for Endeavour Commander Dominic Gorie."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/23/2008",
+    "title": "I am Free",
+    "artist": "Newsboys song",
+    "chooser": 0,
+    "comment": "The song was played for Mission Specialist Mike Foreman and performed by the Friendswood United Methodist Church Praise Team at his church."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/24/2008",
+    "title": "Furusato",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "A Japanese folksong that translates to “home” in English. The song was performed by Yuko Doi"
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/25/2008",
+    "title": "Con Te Partiro",
+    "artist": "Andrea Bocelli",
+    "chooser": 0,
+    "comment": "An Italian song that translates to “I will go with you.” The song was performed by Andrea Bocelli and played for French astronaut Leopold Eyharts."
+  },
+  {
+    "mission": "STS-123",
+    "duration": "03/11/2008-03/26/2008",
+    "date": "03/26/2008",
+    "title": "Drops of Jupiter",
+    "artist": "Train",
+    "chooser": 0,
+    "comment": "Played for Pilot Gregory H. Johnson."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/01/2008",
+    "title": "Your Wildest Dreams",
+    "artist": "The Moody Blues",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "The song was played for Pilot Ken Ham."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/02/2008",
+    "title": "Away from Home",
+    "artist": "Jose Molina Serrano",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "The song was played for Mission Specialist Greg Chamitoff."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/03/2008",
+    "title": "Hold Me with the Robot Arm",
+    "artist": "Yusuke Hanawa",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "The song was played for Japan Aerospace Exploration Agency astronaut Aki Hoshide."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/04/2008",
+    "title": "Have You Ever",
+    "artist": "Brandi Carlile",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "The song was played for Mission Specialist Karen Nyberg."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/05/2008",
+    "title": "Fly Away",
+    "artist": "Lenny Kravitz",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Mission Specialist Ron Garan."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/06/2008",
+    "title": "Bright as Yellow",
+    "artist": "Innocence Mission",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Mission Specialist Karen Nyberg."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/07/2008",
+    "title": "Taking Off",
+    "artist": "Godaigo",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Mission Specialist Akihiko Hoshide."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/08/2008",
+    "title": "The Mickey Mouse Club theme",
+    "artist": 0,
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for the STS-124 crew."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/09/2008",
+    "title": "The Spirit of Aggieland",
+    "artist": "The Fightin’ Texas Aggie Band",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Mission Specialist Mike Fossum."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/10/2008",
+    "title": "All Because of You",
+    "artist": "U2",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Mission Specialist Ron Garan."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/11/2008",
+    "title": "Centerfield",
+    "artist": "John Fogerty",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Pilot Ken Ham. Mission Control here roused the astronauts early Wednesday with the song"
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/12/2008",
+    "title": "Crystal Frontier",
+    "artist": "Calexico",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Commander Mark Kelly."
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/13/2008",
+    "title": "Baby Won't You Please Come Home",
+    "artist": "Louis Prima",
+    "chooser": "selected by Mr. Reisman’s wife",
+    "comment": "Played for Mission Specialist Garrett Reisman. Mr. Reisman thanked the people on the ground for the song, and said “A special good morning to Simone, my favorite earthling.” He added, “Get ready, doll face: Discovery’s coming home.”"
+  },
+  {
+    "mission": "STS-124",
+    "duration": "06/01/2008-06/14/2008",
+    "date": "06/14/2008",
+    "title": "Life on an Ocean Wave",
+    "artist": "U.S. Merchant Marine Academy Band",
+    "chooser": "One of the astronauts close friends or family",
+    "comment": "Played for Commander Mark Kelly and the entire crew."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/15/2008",
+    "title": "Shelter",
+    "artist": "Xavier Rudd",
+    "chooser": 0,
+    "comment": "It was played for Commander Christopher Ferguson."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/16/2008",
+    "title": "Start Me Up",
+    "artist": "The Rolling Stones",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Sandra Magnus. “I want to thank my family for that music and I’m looking forward to moving into my new home today"
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/17/2008",
+    "title": "London Calling",
+    "artist": "The Clash",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Steven Bowen."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/18/2008",
+    "title": "City of Blinding Lights",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Shane Kimbrough."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/19/2008",
+    "title": "Fanfare for the Common Man",
+    "artist": "Aaron Copeland",
+    "chooser": 0,
+    "comment": "It was played for Pilot Eric Boe."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/20/2008",
+    "title": "Summertime",
+    "artist": "Bandella",
+    "chooser": "Bandella",
+    "comment": "Played for Mission Specialist Donald Pettit. It was recorded by Bandella. Members of that group include singer Michi Pettit, Don Pettit’s wife, and astronauts Steve Robinson, Chris Hadfield and Cady Coleman."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/21/2008",
+    "title": "“Unharness Your Horses",
+    "artist": "Boys”",
+    "chooser": 0,
+    "comment": 0
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/22/2008",
+    "title": "You Are Here",
+    "artist": "Dutton",
+    "chooser": 0,
+    "comment": "It was played for Kimbrough."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/23/2008",
+    "title": "Can’t Take My Eyes Off of You",
+    "artist": "Frankie Valli",
+    "chooser": 0,
+    "comment": "It was for Ferguson. It was his 23rd wedding anniversary."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/24/2008",
+    "title": "Can’t Stop Loving You",
+    "artist": "Van Halen",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Heidemarie Stefanyshyn-Piper."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/25/2008",
+    "title": "Fever",
+    "artist": "Bandella",
+    "chooser": "Bandella",
+    "comment": "Played for Mission Specialist Donald Pettit and sung by his wife."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/26/2008",
+    "title": "North Sea Oil",
+    "artist": "Jethro Tull",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Steve Bowen."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/27/2008",
+    "title": "Hold on Tight",
+    "artist": "Electric Light Orchestra",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Heidemarie Stefanyshyn-Piper."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/28/2008",
+    "title": "In the Meantime",
+    "artist": "Spacehog",
+    "chooser": 0,
+    "comment": "Played for Pilot Eric Boe."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/29/2008",
+    "title": "Twinkle, Twinkle, Little Star",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Greg Chamitoff."
+  },
+  {
+    "mission": "STS-126",
+    "duration": "11/14/2008-11/30/2008",
+    "date": "11/30/2008",
+    "title": "Gonna Fly Now (Theme From ‘Rocky’)",
+    "artist": "Bill Conti",
+    "chooser": 0,
+    "comment": "It was for Ferguson."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/16/2009",
+    "title": "Free Bird",
+    "artist": "Lynyrd Skynyrd",
+    "chooser": 0,
+    "comment": "Played for Pilot Tony Antonelli."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/17/2009",
+    "title": "Radio Exercise",
+    "artist": "Tokyo Broadcast Children’s Choir",
+    "chooser": 0,
+    "comment": "The song traditionally accompanies exercise for Japanese schoolchildren, and was played for astronaut Koichi Wakata of the Japan Aerospace Exploration Agency."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/18/2009",
+    "title": "I Walk the Line",
+    "artist": "Johnny Cash",
+    "chooser": 0,
+    "comment": "Played for Steve Swanson."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/19/2009",
+    "title": "Que Bandera Bonita",
+    "artist": "Jose Gonzalez",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Joseph Acaba."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/20/2009",
+    "title": "Box of Rain",
+    "artist": "The Grateful Dead",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist John Phillips."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/21/2009",
+    "title": "In a Little While",
+    "artist": "Pilgrim and Trout",
+    "chooser": "For Mission Specialist Richard Arnold.",
+    "comment": 0
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/22/2009",
+    "title": "Alive Again",
+    "artist": "Chicago",
+    "chooser": 0,
+    "comment": "Played for Chicago-area native Commander Lee Archambault."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/23/2009",
+    "title": "Ain’t Nobody Here But Us Chickens",
+    "artist": "Louis Jordan",
+    "chooser": 0,
+    "comment": "It was played for Swanson."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/24/2009",
+    "title": "Andrew’s Song",
+    "artist": "Treestump",
+    "chooser": 0,
+    "comment": "Treestump is a band in which John Phillips’ daughter plays."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/25/2009",
+    "title": "Dirty Water",
+    "artist": "The Standells",
+    "chooser": 0,
+    "comment": "Played for Pilot Tony Antonelli."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/26/2009",
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Joseph Acaba."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/27/2009",
+    "title": "Bright Side of the Road",
+    "artist": "Van Morrison",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Richard Arnold."
+  },
+  {
+    "mission": "STS-119",
+    "duration": "03/15/2009-03/28/2009",
+    "date": "03/28/2009",
+    "title": "I Have a Dream",
+    "artist": "ABBA",
+    "chooser": 0,
+    "comment": "The song was played for Sandy Magnus."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/12/2009",
+    "title": "Kryptonite",
+    "artist": "3 Doors Down",
+    "chooser": 0,
+    "comment": "It was played for pilot Greg Johnson."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/13/2009",
+    "title": "Upside Down",
+    "artist": "Jack Johnson",
+    "chooser": 0,
+    "comment": "The song was played for Megan McArthur."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/14/2009",
+    "title": "Stickshifts and Safetybelts",
+    "artist": "Cake",
+    "chooser": 0,
+    "comment": "It was played for Drew Feustel."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/15/2009",
+    "title": "God of Wonders",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "It was played for Mike Good."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/16/2009",
+    "title": "Hotel Cepollina",
+    "artist": "Fuzzbox Piranha",
+    "chooser": 0,
+    "comment": "The song was played for John Grunsfeld."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/17/2009",
+    "title": "New York State of Mind",
+    "artist": "Billy Joel",
+    "chooser": 0,
+    "comment": "The song was played for Mission Specialist Mike Massimino."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/18/2009",
+    "title": "Sound of Your Voice",
+    "artist": "Barenaked Ladies",
+    "chooser": 0,
+    "comment": "It was played for Commander Scott Altman."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/19/2009",
+    "title": "Lie in Our Graves",
+    "artist": "Dave Matthews Band",
+    "chooser": 0,
+    "comment": "It was played for Mission Specialist Megan McArthur."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/20/2009",
+    "title": "Star Trek theme",
+    "artist": "Alexander Courage",
+    "chooser": 0,
+    "comment": "Theme from the television series “Star Trek” which was composed by Alexander Courage. The song was played for the entire crew."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/21/2009",
+    "title": "Cantina Band",
+    "artist": "John Williams",
+    "chooser": 0,
+    "comment": "One of composer John Williams’ songs from the soundtrack to “Star Wars”. The song was played for the entire crew."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/22/2009",
+    "title": "The Galaxy Song",
+    "artist": "Monty Python",
+    "chooser": 0,
+    "comment": "From Monty Python’s movie “The Meaning of Life”. It was played for the entire crew."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/23/2009",
+    "title": "Where My Heart Will Take Me",
+    "artist": "Russell Watson",
+    "chooser": 0,
+    "comment": "It was played for the entire crew."
+  },
+  {
+    "mission": "STS-125",
+    "duration": "05/11/2009-05/24/2009",
+    "date": "05/24/2009",
+    "title": "The Ride of the Valkyries",
+    "artist": "Richard Wagner",
+    "chooser": 0,
+    "comment": "It was played for the entire crew."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/16/2009",
+    "title": "These Are Days",
+    "artist": 10,
+    "chooser": "000 Maniacs",
+    "comment": "Emanated from speakers inside Endeavour’s crew cabin"
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/17/2009",
+    "title": "Here Comes the Sun",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": "Chosen for Commander Mark Polansky."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/18/2009",
+    "title": "Home",
+    "artist": "Marc Broussard",
+    "chooser": 0,
+    "comment": "Played for lead spacewalker Dave Wolf, who heard the call while camped out in the Quest airlock with Tim Kopra, the newest addition to the Expedition 20 crew."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/19/2009",
+    "title": "Learning to Fly",
+    "artist": "Tom Petty and the Heartbreakers",
+    "chooser": 0,
+    "comment": "For former Navy SEAL Chris Cassidy, who is making his first space flight aboard the space shuttle Endeavour."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/20/2009",
+    "title": "Thunderbirds theme",
+    "artist": "Barry Gray",
+    "chooser": 0,
+    "comment": "The theme from the 1960s television series “Thunderbirds,” by composer Barry Gray, for Canadian Space Agency astronaut Julie Payette."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/21/2009",
+    "title": "Life Is a Highway",
+    "artist": "Rascal Flatts",
+    "chooser": 0,
+    "comment": "The tune was played for Tom Marshburn, who completed his first spacewalk Monday."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/22/2009",
+    "title": "Santa Monica",
+    "artist": "Everclear",
+    "chooser": 0,
+    "comment": "For Endeavour’s pilot, Doug Hurley."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/23/2009",
+    "title": "Tiny Dancer",
+    "artist": "Elton John",
+    "chooser": 0,
+    "comment": "The song was selected for Polansky."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/24/2009",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "chooser": 0,
+    "comment": "Offered up for lead spacewalker Dave Wolf."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/25/2009",
+    "title": "In Your Eyes",
+    "artist": "Peter Gabriel",
+    "chooser": 0,
+    "comment": "Selected for Tom Marshburn, who completed his second spacewalk on Friday with Chris Cassidy."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/26/2009",
+    "title": "Dixit Dominus",
+    "artist": "George Frederic Handel",
+    "chooser": 0,
+    "comment": "The excerpt was uplinked for Canadian Space Agency astronaut Julie Payette."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/27/2009",
+    "title": "On the Sunny Side of the Street",
+    "artist": "Steve Tyrell",
+    "chooser": 0,
+    "comment": "The song was uplinked especially for Commander Mark Polansky."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/28/2009",
+    "title": "Proud to Be an American",
+    "artist": "Lee Greenwood",
+    "chooser": 0,
+    "comment": "The song was selected for spacewalker Chris Cassidy, a former Navy SEAL."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/29/2009",
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "chooser": 0,
+    "comment": "Uplinked for Pilot Doug Hurley in honor of his International Space Station fly-around."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/30/2009",
+    "title": "I Got You Babe",
+    "artist": "Sonny and Cher",
+    "chooser": 0,
+    "comment": "The song was a special request for Koichi Wakata, the first Japan Aerospace Exploration Agency astronaut to serve as a long-duration resident of the station."
+  },
+  {
+    "mission": "STS-127",
+    "duration": "07/15/2009-07/31/2009",
+    "date": "07/31/2009",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Tom Marshburn."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "08/29/2009",
+    "title": "Back in the Saddle Again",
+    "artist": "Gene Autry",
+    "chooser": 0,
+    "comment": "Played for Commander Rick Sturckow."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "08/30/2009",
+    "title": "Made to Love",
+    "artist": "Toby Mac",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Nicole Stott."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "08/31/2009",
+    "title": "Mi Tierra",
+    "artist": "Gloria Estefan",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Jose Hernandez."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/01/2009",
+    "title": "Indiana Our Indiana",
+    "artist": "Indiana University Band",
+    "chooser": 0,
+    "comment": "Played for Pilot Kevin Ford, born in Indiana and on his first spaceflight."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/02/2009",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Christer Fuglesang."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/03/2009",
+    "title": "There is a God",
+    "artist": "33 Miles",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Patrick Forrester."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/04/2009",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Danny Olivas."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/05/2009",
+    "title": "El Hijo del Pueblo",
+    "artist": "Alfredo Jimenez",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Jose Hernandez."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/06/2009",
+    "title": "Rocket",
+    "artist": "Andrew Peterson",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Pat Forrester."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/07/2009",
+    "title": "Only One",
+    "artist": "Jeremy Kay",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Danny Olivas."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/08/2009",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Tim Kopra"
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/09/2009",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Christer Fuglesang."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/10/2009",
+    "title": "Good Day Sunshine",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": "Played for Pilot Kevin Ford."
+  },
+  {
+    "mission": "STS-128",
+    "duration": "08/28/2009-09/11/2009",
+    "date": "09/11/2009",
+    "title": "Big Boy Toys",
+    "artist": "Aaron Tippin",
+    "chooser": 0,
+    "comment": "Played for Commander Rick Sturckow."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/17/2009",
+    "title": "I Can Only Imagine",
+    "artist": "MercyMe",
+    "chooser": "Barry Wilmore's wife",
+    "comment": "Played for Mission Specialist Barry Wilmore, a tune selected by his wife Deanna to mark his first career spaceflight."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/18/2009",
+    "title": "Higher Ground",
+    "artist": "Stevie Wonder",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Robert L. Satcher Jr."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/19/2009",
+    "title": "In Wonder",
+    "artist": "The Newsboys",
+    "chooser": "Randy Bresnik's wife",
+    "comment": "Played for Mission Specialist Randy Bresnik, a tune chosen for Bresnik by his wife."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/20/2009",
+    "title": "We Are Family",
+    "artist": "Sister Sledge",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Leland Melvin."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/21/2009",
+    "title": "Voyage to Atlantis",
+    "artist": "The Isley Brothers",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Robert Satcher."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/22/2009",
+    "title": "Butterfly Kisses",
+    "artist": "Bob Carlisle",
+    "chooser": "Randy Bresnik's wife",
+    "comment": "Played for Mission Specialist Randy Bresnik. Responding to the wake-up call from Houston, he delivered the news that his wife Rebecca had given birth, saying"
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/23/2009",
+    "title": "Space Rise",
+    "artist": "Larry Whitehair",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Mike Foreman."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/24/2009",
+    "title": "Marine Corps Hymn",
+    "artist": "Jacques Offenbach",
+    "chooser": 0,
+    "comment": "Played by the U.S. Marine Corps Band, for STS-129 Commander Charlie Hobaugh."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/25/2009",
+    "title": "Amazing Grace",
+    "artist": "Eric Rigler",
+    "chooser": 0,
+    "comment": "From the 1995 movie “Braveheart,” performed by Eric Rigler on bagpipes, was played for STS-129 Pilot Barry Wilmore."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/26/2009",
+    "title": "Fly Me to the Moon",
+    "artist": "Frank Sinatra",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Nicole Stott."
+  },
+  {
+    "mission": "STS-129",
+    "duration": "11/16/2009-11/27/2009",
+    "date": "11/27/2009",
+    "title": "Home Sweet Home",
+    "artist": "Motley Crue",
+    "chooser": 0,
+    "comment": "Played for the entire crew."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/08/2010",
+    "title": "Give Me Your Eyes",
+    "artist": "Brandon Heath",
+    "chooser": 0,
+    "comment": "Played for Pilot Terry Virts. Brandon Heath recently won a Midsouth Regional Emmy Award for his blockbuster hit"
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/09/2010",
+    "title": "Katmandu",
+    "artist": "Bob Seger",
+    "chooser": 0,
+    "comment": "Played for Commander George Zamka."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/10/2010",
+    "title": "Also Sprach Zarathustra",
+    "artist": "Richard Strauss",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Nicholas Patrick. The song is most widely known as the theme from the movie “2001: A Space Odyssey.”"
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/11/2010",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Kay Hire."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/12/2010",
+    "title": "The Ballad of Serenity",
+    "artist": "Sonny Rhodes",
+    "chooser": 0,
+    "comment": "The “Firefly” TV show theme song, “The Ballad of Serenity” by Sonny Rhodes played for Mission Specialist Bob Behnken."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/13/2010",
+    "title": "Too Much Stuff",
+    "artist": "Delbert McClinton",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Stephen Robinson."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/14/2010",
+    "title": "Forty Years On",
+    "artist": "Harrow School",
+    "chooser": 0,
+    "comment": "The Harrow School (London) song for Harrow alumnus Mission Specialist Nicholas Patrick."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/15/2010",
+    "title": "Parabola",
+    "artist": "Tool",
+    "chooser": 0,
+    "comment": "For Mission Specialist Robert Behnken."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/16/2010",
+    "title": "Window on the World",
+    "artist": "Jimmy Buffett",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Kathryn Hire."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/17/2010",
+    "title": "Oh Yeah",
+    "artist": "Johnny A.",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Stephen Robinson."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/18/2010",
+    "title": "I’m Gonna Be (500 Miles)",
+    "artist": "Steven Curtis Chapman",
+    "chooser": 0,
+    "comment": "Played for Pilot Terry Virts."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/19/2010",
+    "title": "In Wonder",
+    "artist": "Newsboys",
+    "chooser": 0,
+    "comment": "Played for Pilot Terry Virts."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/20/2010",
+    "title": "The Distance",
+    "artist": "Cake",
+    "chooser": 0,
+    "comment": "Played for all six astmronauts from their flight control team in the Mission Control Center in Houston."
+  },
+  {
+    "mission": "STS-130",
+    "duration": "02/08/2010-02/21/2010",
+    "date": "02/21/2010",
+    "title": "The Marines Hymn",
+    "artist": "Jacques Offenbach",
+    "chooser": 0,
+    "comment": "Played for Commander George Zamka, who is a colonel in the Marine Corps."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/05/2010",
+    "title": "Find Us Faithful",
+    "artist": "Steve Green",
+    "chooser": 0,
+    "comment": "Played for veteran Mission Specialist Clayton Anderson, who spent 152 days as a member of the Station’s Expedition 15 crew in 2007."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/06/2010",
+    "title": "I Will Rise",
+    "artist": "Chris Tomlin",
+    "chooser": 0,
+    "comment": "Played for Pilot James P. Dutton Jr."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/07/2010",
+    "title": "The Pigeon and a Boy",
+    "artist": "Joe Hisaishi",
+    "chooser": 0,
+    "comment": "Played for Japan Aerospace Exploration Agency astronaut Naoko Yamazaki."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/08/2010",
+    "title": "Defying Gravity",
+    "artist": "Idina Menzel and Kristen Chenoweth",
+    "chooser": 0,
+    "comment": "From the musical “Wicked”, sung by Idina Menzel and Kristen Chenoweth, played for Mission Specialist Dottie Metcalf-Lindenburger."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/09/2010",
+    "title": "We Weren’t Born to Follow",
+    "artist": "Bon Jovi",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rick Mastracchio."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/10/2010",
+    "title": "Stairway to the Stars",
+    "artist": "Ella Fitzgerald",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Stephanie Wilson."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/11/2010",
+    "title": "Because We Believe",
+    "artist": "Andrea Bocelli",
+    "chooser": 0,
+    "comment": "For Commander Alan G. Poindexter."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/12/2010",
+    "title": "Galileo",
+    "artist": "The Indigo Girls",
+    "chooser": 0,
+    "comment": "For Mission Specialist Dottie Metcalf-Lindenburger and the rest of the crew."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/13/2010",
+    "title": "Miracle of Flight",
+    "artist": "Mike Hyden",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Clayton Anderson."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/14/2010",
+    "title": "The Earth in the Color of Lapis Lazuli",
+    "artist": 0,
+    "chooser": "Seiko Matsuda",
+    "comment": "For Naoko Yamazaki."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/15/2010",
+    "title": "Theme from Stargate",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rick Mastracchio."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/16/2010",
+    "title": "Joy",
+    "artist": "The Newsboys",
+    "chooser": 0,
+    "comment": "selected for Pilot James P. Dutton Jr."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/17/2010",
+    "title": "What a Wonderful World",
+    "artist": "Louis Armstrong",
+    "chooser": 0,
+    "comment": "For Mission Specialist Stephanie Wilson."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/18/2010",
+    "title": "The Star Spangled Banner",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Played for Commander Alan G. Poindexter."
+  },
+  {
+    "mission": "STS-131",
+    "duration": "04/04/2010-04/20/2010",
+    "date": "04/19/2010",
+    "title": "On the Road Again",
+    "artist": "Willie Nelson",
+    "chooser": 0,
+    "comment": "For the crew."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/15/2010",
+    "title": "You’re My Home",
+    "artist": "Billy Joel",
+    "chooser": 0,
+    "comment": "The song was played for Commander Ken Ham."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/16/2010",
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "chooser": 0,
+    "comment": "Played for Tony Antonelli."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/17/2010",
+    "title": "Alive Again",
+    "artist": "Matt Maher",
+    "chooser": 0,
+    "comment": "Played for Mike Good."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/18/2010",
+    "title": "Macho Man",
+    "artist": "The Village People",
+    "chooser": 0,
+    "comment": "Played for Garrett Reisman."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/19/2010",
+    "title": "Start Me Up",
+    "artist": "The Rolling Stones",
+    "chooser": 0,
+    "comment": "Played for Piers Sellers."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/20/2010",
+    "title": "Welcome to the Working Week",
+    "artist": "Elvis Costello",
+    "chooser": 0,
+    "comment": "Played for Stephen Bowen."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/21/2010",
+    "title": "Traveling Light",
+    "artist": "JJ Cale",
+    "chooser": 0,
+    "comment": "Played for Piers Sellers."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/22/2010",
+    "title": "Lord We Have Seen the Rising Sun",
+    "artist": "Matt Redman",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Mike Good."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/23/2010",
+    "title": "These Are Days",
+    "artist": 10,
+    "chooser": "000 Maniacs",
+    "comment": 0
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/24/2010",
+    "title": "Wallace and Gromit theme",
+    "artist": "Julian Nott",
+    "chooser": 0,
+    "comment": "Played for Steve Bowen."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/25/2010",
+    "title": "Empire State of Mind",
+    "artist": "Jay Z and Alicia Keys",
+    "chooser": 0,
+    "comment": "Played for Garrett Reisman."
+  },
+  {
+    "mission": "STS-132",
+    "duration": "05/14/2010-05/26/2010",
+    "date": "05/26/2010",
+    "title": "Supermassive Black Hole",
+    "artist": "Muse",
+    "chooser": 0,
+    "comment": "Played for Ken Ham."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "02/25/2011",
+    "title": "Through Heaven's Eyes",
+    "artist": "Brian Stokes Mitchell",
+    "chooser": 0,
+    "comment": "On the “The Prince of Egypt” soundtrack. The song was played for Mission Specialist Michael Barratt."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "02/26/2011",
+    "title": "Woody’s Roundup",
+    "artist": "Riders in the Sky",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Alvin Drew."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "02/27/2011",
+    "title": "Java Jive",
+    "artist": "The Manhattan Transfer quartet",
+    "chooser": 0,
+    "comment": "Played for Commander Steve Lindsey."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "02/28/2011",
+    "title": "Oh What a Beautiful Morning",
+    "artist": "Davy Knowles and Back Door Slam",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Nicole Stott."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/01/2011",
+    "title": "Happy Together",
+    "artist": "The Turtles",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Steve Bowen."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/02/2011",
+    "title": "The Speed of Sound",
+    "artist": "Coldplay",
+    "chooser": 0,
+    "comment": "Played for Pilot Eric Boe."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/03/2011",
+    "title": "City of Blinding Lights",
+    "artist": "U2",
+    "chooser": 0,
+    "comment": "It was for all the crew members."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/04/2011",
+    "title": "The Ritual/Ancient Battle/2nd Kroykah",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "From volume two of “Star Trek: The Original Television Soundtrack” – better known as the Star Trek fight song – was played for the crew. The song was chosen by the crew’s training team."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/05/2011",
+    "title": "Ohio (Come Back to Texas)",
+    "artist": "Bowling for Soup",
+    "chooser": 0,
+    "comment": "Played for the whole crew."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/06/2011",
+    "title": "Spaceship Superstar",
+    "artist": "Prism",
+    "chooser": "Team of flight controllers",
+    "comment": "It was chosen for all Discovery crew members by the team of flight controllers who have been supporting them overnight throughout the mission."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/07/2011",
+    "title": "Theme from Star Trek",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Performed by Alexander Courage, served as the wake up music for Discovery’s crew at 2:23 a.m. It received the second most public votes from a Top 40 list in a Space Shuttle Program-sponsored song contest (671,134 votes (27 percent of the total). The top two songs with the most votes from that list earned the right to be played as wake up music for Discovery’s crew during its final mission. As a bonus, actor William Shatner recorded a special introduction to the song: “Space, the final frontier. These have been the voyages of the Space Shuttle Discovery. Her 30 year mission: To seek out new science. To build new outposts. To bring nations together on the final frontier. To boldly go, and do, what no spacecraft has done before.” It was a fitting beginning to the day that will see Discovery undock from the space station for the last time. Discovery was the first space shuttle to dock to the International Space Station, during the STS-96 mission in 1999, marking just one time it did what no spacecraft had done before."
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/08/2011",
+    "title": "Blue Sky",
+    "artist": "Big Head Todd and the Monsters",
+    "chooser": 0,
+    "comment": "Performed live by Todd Park Mohr, vocalist and lead guitarist of the band, accompanied by fellow band mates Brian Nevin, Rob Squires and Jeremy Lawton. The song received the most votes in NASA’s Top 40 song contest receiving 722,662 votes (29 percent of the 2,463,774 total). It was originally written as a tribute to the space program and workforce, and is routinely played in concert by the four-member band. The live performance was the first time a shuttle crew has been awakened “live” from Mission Control, Houston. “That was terrific,” Lindsey radioed down to Mohr. “We really appreciate it and congratulations on winning the contest.” Mohr, with his three band members in the control center, thanked Lindsey for his courage, bravery “and your effort in just giving all of us a better shot at knowing more. It’s very inspirational to the arts as well.”"
+  },
+  {
+    "mission": "STS-133",
+    "duration": "02/24/2011-03/09/2011",
+    "date": "03/09/2011",
+    "title": "Coming Home",
+    "artist": "Gwyneth Paltrow",
+    "chooser": "The International Space Station flight control teams",
+    "comment": "Chosen by the International Space Station flight control teamsthat supported the crew."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/16/2011",
+    "title": "Beautiful Day",
+    "artist": "U2",
+    "chooser": "From Giffords and Kelly's two daughters",
+    "comment": "Played for Commander Mark Kelly. Wounded U.S. Rep. Gabrielle Giffords helped start the first full work day in space for her husband and the crew of the space shuttle Endeavour with the song. It's the same song Giffords sent as a wake-up call to Mark Kelly in 2006 when they were just dating. But this time the message-of-hope lyrics seemed to have a special meaning given her recovery from being shot in the head Jan. 8 in Arizona."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/17/2011",
+    "title": "Drops of Jupiter",
+    "artist": "Train",
+    "chooser": "Pilot Greg Johnson's family",
+    "comment": "Selected for Johnson by his family and radioed up to the shuttle by Mission Control."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/18/2011",
+    "title": "Luna",
+    "artist": "Jose Serrano",
+    "chooser": 0,
+    "comment": "Performed by Jose Serrano for his friend Greg Chamitoff."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/19/2011",
+    "title": "We All Do What We Can Do",
+    "artist": "Dan Keenan and Kenny McLaughlin",
+    "chooser": "Dan Keenan and Kenny McLaughlin",
+    "comment": "The song was sent up for Mike Fincke by shuttle thermal protection system engineer Dan Keenan, and Kenny McLaughlin, a Kennedy Space Center launch pad engineer. The two shuttle workers created the song to honor those who have helped make the space program a success."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/20/2011",
+    "title": "In View”",
+    "artist": "Tragically Hip",
+    "chooser": 0,
+    "comment": "Played for Andrew Feustel."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/21/2011",
+    "title": "Il Mio Pensiero",
+    "artist": "Ligabue",
+    "chooser": 0,
+    "comment": "Played for Roberto Vittori."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/22/2011",
+    "title": "Times Like These",
+    "artist": "The Foo Fighters",
+    "chooser": 0,
+    "comment": "For Mission Specialist Andrew Feustel."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/23/2011",
+    "title": "Svegliarsi La Mattina (Woke Up This Morning)",
+    "artist": "Zero Assoluto",
+    "chooser": 0,
+    "comment": "By the Italian duo Zero Assoluto, uplinked especially for Mission Specialist Roberto Vittori of Italy. Zero Assoluto“Real World” by Matchbox 20 for shuttle Pilot Greg Johnson."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/25/2011",
+    "title": "Countdown",
+    "artist": "Rush",
+    "chooser": 0,
+    "comment": "By the Canadian band Rush, played for Mission Specialist Mike Fincke. Fincke described how his friends Greg Shurtz and NASA employee Ken Fisher chose the song because the band was inspired to write it and the album “Signals” after viewing the launch of STS-1. Fincke went on to say the song was played as a tribute to the space shuttle program, which has inspired people around the world."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/26/2011",
+    "title": "Fun Fun Fun",
+    "artist": "The Beach Boys",
+    "chooser": 0,
+    "comment": "A modified version of the song “Fun, Fun, Fun” with shuttle-themed lyrics, played for all six STS-134 crew members."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/27/2011",
+    "title": "Will You Carry Me?",
+    "artist": 0,
+    "chooser": "Michael FitzPatrick",
+    "comment": "Performed by Michael FitzPatrick. FitzPatrick has been an Electrical, Environmental, Consumables, and Mechanical flight controller at NASA's Johnson Space Center for more than 20 years and supported 80 missions."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/28/2011",
+    "title": "Galaxy Song",
+    "artist": "Monty Python",
+    "chooser": "Clint Black",
+    "comment": "Performed by Clint Black. The song was dedicated to the whole crew by the flight control team."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/29/2011",
+    "title": "Slowness",
+    "artist": "Calexico",
+    "chooser": "Mark Kelly",
+    "comment": "Song by the Tucson, Arizona-based band Calexico, was played for Kelly. Mark Kelly picked Calexico's"
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/30/2011",
+    "title": "Dreams You Give",
+    "artist": "Brain Plunkett",
+    "chooser": 0,
+    "comment": "The original composition “Dreams You Give” by Brain Plunkett, the second place winner in the Space Shuttle Program’s Original Song Contest, which drew more than 1,300 entries. More than a million votes were cast online by the general public to choose two songs from among 10 finalists to be played to the astronauts."
+  },
+  {
+    "mission": "STS-134",
+    "duration": "05/16/2011-06/01/2011",
+    "date": "05/31/2011",
+    "title": "Sunrise Number 1",
+    "artist": "Stormy Mondays",
+    "chooser": "Online vote",
+    "comment": "Performed by the band Stormy Mondays. This song was chosen in an online vote of the general public as the winner in the Space Shuttle Program’s Original Song Contest, which attracted 1350 entrants."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/09/2011",
+    "title": "Viva la Vida",
+    "artist": "Coldplay",
+    "chooser": "STS-135 Pilot Doug Hurley",
+    "comment": "The song was accompanied by a special good morning message recorded by employees at NASA’s Marshall Spaceflight Center in Huntsville, Alabama, the NASA center that has managed the Space Shuttle’s solid rocket boosters, main engines and external tank throughout the program’s history."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/10/2011",
+    "title": "Mr. Blue Sky",
+    "artist": "Electric Light Orchestra",
+    "chooser": 0,
+    "comment": "Played for Commander Chris Ferguson."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/11/2011",
+    "title": "Tubthumping",
+    "artist": "Chumbawamba",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Sandy Magnus."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/12/2011",
+    "title": "More",
+    "artist": "Matthew West",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rex Walheim."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/13/2011",
+    "title": "Special Message from Elton John",
+    "artist": 0,
+    "chooser": 0,
+    "comment": "Flight Day 6 was kick-started for the STS-135 astronauts with a special wake-up message from Elton John and one of the legendary performer’s greatest hits."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/14/2011",
+    "title": "Man on the Moon",
+    "artist": "R.E.M.",
+    "chooser": 0,
+    "comment": "Michael Stipe front man for R.E.M. started the crew’s day with an A capella version of the group’s hit. On recording this song for the Atlantis’ last crew Stipe said, “I recorded ‘Man on The Moon’ for NASA in Venice, Italy, where Galileo first presented to the Venetian government his eight-power telescope, and in 1610 wrote 'The Starry Messenger' (Sidereus Nuncius), an account of his early astronomical discoveries that altered forever our view of our place in the universe. “Good morning, Atlantis,” he said. “This is Michael Stipe from R.E.M. We wish you much success on your mission, and thank all the women and men at NASA who have worked on shuttle for three decades. From Earth, a very good morning to you.”"
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/15/2011",
+    "title": "Good Day Sunshine",
+    "artist": "The Beatles",
+    "chooser": 0,
+    "comment": "Sir Paul McCartney greeted the Atlantis crew with the Beatles favorite"
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/16/2011",
+    "title": "Run the World (Girls)",
+    "artist": "Beyonce",
+    "chooser": 0,
+    "comment": "After being awakened by a special greeting from songstress Beyonce Knowles. Beyonce also known as Sasha Fierce was born in Houston, also home of the final shuttle astronauts: Chris Ferguson, Doug Hurley, Sandy Magnus and Rex Walheim. Beyonce brought it on orbit when “Girls” was played for the entire crew as a tribute to the final shuttle mission and also to women in space: “Good morning Atlantis, this is Beyonce. Sandy, Chris, Doug and Rex, you inspire all of us to dare to live our dreams, to know that we’re smart enough and strong enough to achieve them. This song is especially for my girl, Sandy, and and all the women who’ve taken us to space with them and the girls who are our future explorers."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/17/2011",
+    "title": "Celebration",
+    "artist": "Kool and the Gang",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Sandy Magnus. The song was accompanied by a special good morning message recorded by employees at NASA's Stennis Space Center in southern Mississippi, the NASA center that is home to the test stands that verified each of the main engines that helped propel space shuttles into low Earth orbit, including the three used in the STS-135 launch. “Good morning Atlantis, from your friends at Stennis Space Center,” Stennis employees said. “It’s time to fire up your engines – laissez les bons temps rouler!” “Laissez les bons temps rouler,” is a Cajun French phrase that translates “Let the good times roll.” was in good working order before it was installed."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/18/2011",
+    "title": "Days Go By",
+    "artist": "Keith Urban",
+    "chooser": 0,
+    "comment": "Played for Mission Specialist Rex Walheim. The song was accompanied by a special good morning message recorded by employees at NASA's Johnson Space Center in Houston, TX. The NASA center is home not only to the astronaut corps, but also Mission Control and the Space Shuttle Program. “Good morning, Atlantis, from all of us at the Johnson Space Center!” chorused an auditorium-full of Johnson employees in a message recorded before Atlantis’ launch. “Have a great mission!”"
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/19/2011",
+    "title": "Don't Panic",
+    "artist": "Coldplay",
+    "chooser": 0,
+    "comment": "Played for Pilot Doug Hurley. This was the last wakeup song played for a shuttle crew while docked to the International Space Station. Coldplay's “Viva la Vida” was the wakeup music for the crew on Flight Day 2.\nSTS-135,07/08/2011-07/21/2011,07/20/2011,Fanfare for the Common Man,Aaron Copland,,Played for Commander Chris Ferguson. It was followed by a prerecorded message from Kennedy Space Center employees. “Three … two … one … Good morning, Atlantis!” the group said. “Kennedy salutes you. See you back at wheels stop!” Kennedy is home to the space shuttle fleet, along with its launch pads and the people who prepared the shuttles for each trip into space."
+  },
+  {
+    "mission": "STS-135",
+    "duration": "07/08/2011-07/21/2011",
+    "date": "07/21/2011",
+    "title": "God Bless America",
+    "artist": "Irving Berlin",
+    "chooser": 0,
+    "comment": "Kate Smith’s rendition of Irving Berlin’s “God Bless America” woke Commander Chris Ferguson, Pilot Doug Hurley and Mission Specialists Sandy Magnus and Rex Walheim. But unlike most wakeup songs, which are played in honor of a particular crew member, this one was dedicated to all the men and women who have worked for the Space Shuttle Program in the past three decades… “the men and women who put their heart and soul into the shuttle program for all these years,” as Capcom Shannon Lucid told the crew. Ferguson said it was an appropriate song for their last day in space."
+  }
+]

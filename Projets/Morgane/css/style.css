@@ -1,0 +1,84 @@
+/*-----------------------------FONTS---------------------------------*/
+
+@font-face {
+font-family: 'MetroBlackLT-Two';
+src: url('../font/MetroBlackLT-Two.otf') format('opentype'),
+     url('../font/MetroBlackLT-Two.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'MetroMediumLT-Two';
+src: url('../font/MetroMediumLT-Two.otf') format('opentype'),
+     url('../font/MetroMediumLT-Two.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'MetroLiteLT-Two';
+src: url('../font/MetroLiteLT-Two.otf') format('opentype'),
+     url('../font/MetroLiteLT-Two.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+/*------------------------------END FONTS--------------------------------*/
+
+
+
+body{
+	background: #1F1552;
+	color: #FFFFFF;
+	font-family: MetroLiteLT-Two,Helvetica,sans-serif;
+	width: 100%;
+}
+
+h2{
+	font-family: MetroBlackLT-Two,Helvetica,sans-serif;
+	border: 2px #FFFFFF;
+	border-style: solid;
+	padding: 10px;
+	display: inline;
+	text-align: center;
+	position: relative;
+	vertical-align: middle;
+	margin-bottom: 200px;
+}
+
+section{
+	vertical-align: middle;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	position: absolute;
+	margin-top: 200px;
+}
+
+canvas{
+	margin-top: 100px;
+}
+
+.centrer_titre{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	position: absolute;
+	vertical-align: middle;
+	display: inline-block;
+	width: 20%;
+	height: 200px;
+
+}
+
+.colonne{
+	width: 40%;
+	display: inline-block;
+	margin-top: 80px;
+}
+
+
+#carousel-example-generic{
+	padding-top: 800px;
+}
