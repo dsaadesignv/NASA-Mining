@@ -1,0 +1,53 @@
+#map {
+	height: 500px; 
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:50px;
+	margin-bottom:100px;
+
+}
+
+#Logo{
+	margin-left:40px;
+	margin-right:40px;
+	margin-top:40px;
+	margin-bottom:40px;
+
+}
+
+#ButtonPlay{
+	margin-top:15px;
+	margin-left:275px;
+
+}
+
+#text1{
+	font-family: 'FabfeltScript-Bold';
+	font-size: 30px;
+	color: white;
+	margin-left:550px;
+	margin-top: 130px;
+	line-height: 40px;
+}
+
+#text2{
+	font-family: 'Roboto-Medium';
+	font-size: 23px;
+	color: white;
+	margin-left:550px;
+	margin-top: 10px;
+	line-height: 40px;
+}
+
+
+body{
+	background-color:#021735;
+}
+
+
+  #Patrick{
+  	position: fixed;
+  	bottom: 0px;
+  	left:300px;  
+  }
+
