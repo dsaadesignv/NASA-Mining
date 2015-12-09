@@ -1,5 +1,18 @@
+@font-face {
+    font-family: 'fabfeltscriptbold';
+    src: url('fabfeltscript-bold-webfont.eot');
+    src: url('fabfeltscript-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fabfeltscript-bold-webfont.woff2') format('woff2'),
+         url('fabfeltscript-bold-webfont.woff') format('woff'),
+         url('fabfeltscript-bold-webfont.ttf') format('truetype'),
+         url('fabfeltscript-bold-webfont.svg#fabfeltscriptbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 #map {
-	height: 500px; 
+	height: 500px;
 	margin-left:100px;
 	margin-right:100px;
 	margin-top:50px;
@@ -22,7 +35,7 @@
 }
 
 #text1{
-	font-family: 'FabfeltScript-Bold';
+	font-family: 'fabfeltscriptbold';
 	font-size: 30px;
 	color: white;
 	margin-left:550px;
@@ -48,6 +61,6 @@ body{
   #Patrick{
   	position: fixed;
   	bottom: 0px;
-  	left:300px;  
+  	left:300px;
   }
 
