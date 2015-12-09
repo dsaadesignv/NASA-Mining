@@ -51,3 +51,9 @@ body{
   	left:300px;  
   }
 
+#canvasDiv2{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
