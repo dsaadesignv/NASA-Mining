@@ -75,7 +75,7 @@ function setup() {
 function draw() {
   background(0,0,0,90);
 
-  pickles.push( new Particle());
+  if( pickles.length < 1000 ) pickles.push( new Particle() );
   
   //créer les particules
   for (var i = 0; i < pickles.length; i++) {
@@ -188,16 +188,25 @@ var Particle = function() {
     //var m = 51 - delais;
     this.velX = random(-delais, delais);
     this.velY = random(-delais, delais);
-  }
+}
 
-  Particle.prototype.update = function() {
-    this.x += this.velX;
-    this.y += this.velY;
+Particle.prototype.update = function() {
+	this.x += this.velX;
+	this.y += this.velY;
 
-    fill(255);
-    rect(this.x, this.y, 5, 5);
-    noStroke();
-  }
+	if( (this.x < 0 || this.x>width) && (this.y<0 || this.y>height) ){
+	    this.x = random((width / 2) + 20, (width / 2) - 20);
+	    this.y = random((height / 2) + 20, (height / 2) - 20);
+
+	    //var m = 51 - delais;
+	    this.velX = random(-delais, delais);
+	    this.velY = random(-delais, delais);
+	}
+
+	fill(255);
+	rect(this.x, this.y, 5, 5);
+	noStroke();
+}
 
 //fonctions appelées quand les boutons radio changent d'état.
 function setVolume( vol ){
