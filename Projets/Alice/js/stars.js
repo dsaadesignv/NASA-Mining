@@ -1,6 +1,6 @@
 var myCanvas2;
 
-$(function (){
+/*$(function (){
 
 	$(window).mousemove(function(event) {
 
@@ -10,7 +10,7 @@ $(function (){
 		});
 	});
 
-});
+});*/
 
 function setup(){
 	var canvas = createCanvas(windowWidth, windowHeight);
