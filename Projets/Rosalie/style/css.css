@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'static';
+    src: url('static-webfont.eot');
+    src: url('static-webfont.eot?#iefix') format('embedded-opentype'),
+         url('static-webfont.woff2') format('woff2'),
+         url('static-webfont.woff') format('woff'),
+         url('static-webfont.ttf') format('truetype'),
+         url('static-webfont.svg#static') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 *{
 margin: 0;
 padding: 0;
@@ -58,16 +71,16 @@ height:800px;
   width: 60px;
   height: 60px;
 }
-#etape1 #cam1{ 
+#etape1 #cam1{
 margin-left: 720px;
 margin-top: 145px;
 }
 
-#etape1 #cam2{ 
+#etape1 #cam2{
 margin-left: 720px;
 margin-top: 260px;
 }
-#etape1 #cam3{ 
+#etape1 #cam3{
 margin-left: 720px;
 margin-top: 375px;
 }
@@ -163,12 +176,12 @@ margin-top: 375px;
   background-color: rgba(255, 255, 255, 0.01 );
   font-family: 'Static', sans-serif;
   margin-left: 0px;
-  padding: 0px; 
-  text-align: center; 
+  padding: 0px;
+  text-align: center;
 }
 #etape3 nav ul a{
   color: white;
-  display: block; 
+  display: block;
   font-family: 'static';
   font-size: 15px;
   padding-bottom: 27px;
@@ -191,7 +204,7 @@ margin-top: 375px;
 
 /*POPUP 1*/
 #popup{
-  position: fixed;    
+  position: fixed;
   margin-top: 100px;
   margin-left: 500px;
   z-index: 500;
@@ -212,7 +225,7 @@ margin-top: 375px;
   font-family: static;
   color:white;
   width: 300px;
-  
+
 }
 #contenu-popup #close-popup{
   font-family:Arial, Helvetica, bold;
@@ -225,8 +238,8 @@ margin-top: 375px;
   color:white;
   border-radius: 20px;
   float: right;
-  z-index: 10; 
-} 
+  z-index: 10;
+}
 /*IMAGE POPUP1*/
 .vuecam1{
   height: 370px;
@@ -237,7 +250,7 @@ margin-top: 375px;
 
 /*POPUP2*/
 #popup2{
-  position: fixed;    
+  position: fixed;
   margin-top: 45px;
   margin-left: 450px;
   z-index: 500;
@@ -255,7 +268,7 @@ margin-top: 375px;
   font-size: 20px;
   font-family: static;
   color: white;
-  width: 300px; 
+  width: 300px;
 }
 #contenu-popup2 #close-popup2{
   font-family:Arial, Helvetica, bold;
@@ -269,7 +282,7 @@ margin-top: 375px;
   border-radius: 20px;
   float: right;
   z-index: 3;
-} 
+}
 /*IMAGE POPUP 2*/
 .arrive{
   height: 550px;
@@ -279,7 +292,7 @@ margin-top: 375px;
 
 /*POPUP3*/
 #popup3{
-  position: fixed;    
+  position: fixed;
   margin-top: 45px;
   margin-left: 300px;
   z-index: 500;
@@ -311,19 +324,19 @@ margin-top: 375px;
   border-radius: 20px;
   float: right;
   z-index: 3;
-} 
+}
 #etape3 h5{
   font-size: 12px;
   font-family: static;
   color: white;
   margin-top: 10px;
-  line-height:20px; 
+  line-height:20px;
 }
 
 
 /*POPUP 4 */
 #popup4{
-  position: fixed;    
+  position: fixed;
   margin-top: 150px;
   margin-left: 300px;
   z-index: 500;
@@ -341,7 +354,7 @@ margin-top: 375px;
   font-size: 20px;
   font-family: static;
   color: white;
-  width: 300px; 
+  width: 300px;
 }
 #contenu-popup4 #close-popup4{
   font-family:Arial, Helvetica, bold;
@@ -354,7 +367,7 @@ margin-top: 375px;
   color:white;
   border-radius: 20px;
   float: right;
-} 
+}
 .vuecam2{
   height: 350px;
   width: 350px;
@@ -373,7 +386,7 @@ margin-top: 375px;
 
 /*POPUP IMG*/
 #popup-img{
-  position: fixed;    
+  position: fixed;
   margin-top: 20px;
   margin-left: 340px;
   z-index: 500;
@@ -398,8 +411,8 @@ margin-top: 375px;
   color:white;
   border-radius: 20px;
   float: right;
-  z-index: 10;  
-} 
+  z-index: 10;
+}
 /*FERMER LE POPUP ET LA PHOTO DE CURIOSITY*/
 .close-img{
   font-family:Arial, Helvetica, bold;
@@ -413,7 +426,7 @@ margin-top: 375px;
   border-radius: 20px;
   float: right;
   z-index: 999;
-} 
+}
 
 
 
