@@ -43,23 +43,35 @@ $(document).ready(function() {
     if( crateres.length > 0 ){
           var i = Math.floor(Math.random()*crateres.length);
             var cratere = crateres[ i ];
+            var nomCratere = cratere.Name;
+            var diametreCratere = cratere.Diam;
             var lat = parseFloat( cratere.Lat );
             var lng = parseFloat( cratere.Lon );
-            var color = colors[ Math.floor( Math.random() * colors.length ) ]; 
-            globe.plugins.crateres.add( lng, lat, { color: cratere.Morpho, angle: Math.random() * 10 }); 
+            var color = colors[ Math.floor( Math.random() * colors.length ) ];
+            /* affichage des informations
+            C'est ici qu'il faudrait faire
+            un lien avec Dbpedia pour
+            récupérer les informations
+            sur les noms et les afficher*/
+            $('.explication h3').html(nomCratere);
+            $('.explication .diametre').html(diametreCratere);
+            $('.explication .lat').html(lat);
+            $('.explication .lng').html(lng);
+            /* fin affichage */
+            globe.plugins.crateres.add( lng, lat, { color: cratere.Morpho, angle: Math.random() * 10 });
     }
-    }, 50 );
+    }, 1000 ); // durée de l'intervalle
 
     // on définit la taille du canvas
-    var canvas = document.getElementById('rotatingGlobe'); 
+    var canvas = document.getElementById('rotatingGlobe');
     canvas.width = 700;
     canvas.height = 700;
     context = canvas.getContext('2d');
     context.scale(2, 2);
     globe.draw( canvas );
-   
+
 });
-            
+
  /*$("#rotatingGlobe").on("click",function(){
       $(".explication").hide();
 
@@ -67,7 +79,7 @@ $(document).ready(function() {
 
 
 
-// FICHIER JS CLASSEMENT CRATERES 
+// FICHIER JS CLASSEMENT CRATERES
 
 // on définit plusieurs variables
 var data;
@@ -85,20 +97,26 @@ function setup() {
   var dataIndex = 0; // on cherche l'objet au rang dataIndex
 
 
-  var ny = 55, nx = 6; // on définit le nombre de lignes et de colonnes 
+  var ny = 55, nx = 6; // on définit le nombre de lignes et de colonnes
   var total = ny*nx;
 
   for( var y = 0; y<ny; y++){
     for( var x = 0; x<nx; x++){
       var _x = 70 + x * 220; // on définit l'espace entre chaque visualisation de cratères
       var _y = 100 + y * 220;
-      
+
 
       var nbLetters = data[dataIndex].Name.length; // on définit la variable qui utilise le nom des cratères
       var morph = data[dataIndex].Morpho; // on cherche l'objet au rang dataIndex
-      
-      var nom = data[dataIndex].Name; 
+
+      var nom = data[dataIndex].Name;
       //write(nom); > j'ai cherché comment afficher le nom du cratère sous la visualisation mais je n'ai pas réussi...
+      //c'est chose faitr ci-dessous : http://p5js.org/reference/#group-Typography
+      textSize(12);
+      textFont("Helvetica");
+      textAlign(CENTER);
+      strokeWeight(1);
+      text(nom, _x, _y+80);
 
       console.log(nom);
       console.log(nbLetters);
@@ -148,10 +166,10 @@ function setup() {
           break;
         }
 
-    
+
     } // fin boucle 1
   } // fin boucle 2
-} 
+}
 
 
 // on définit les fonctions qui permettent les graphismes utilisés précédemment
