@@ -1,9 +1,10 @@
 // Mes variables
+var jsonData, moods;
 var title;
 var artist;
 var mission;
 var enth, patr, comb, fest, mela, ener, cont, epiq;
-var tabArtist;
+var missionArtists;
 var genres;
 var mood;
 var tabListMission = [];
@@ -11,7 +12,7 @@ var tabListMission = [];
 
 
 // Chargement des motifs
-/*function preload() {
+function preload() {
 
   enth = loadImage('img/enth.png');
   patr = loadImage('img/patr.png');
@@ -29,121 +30,110 @@ var tabListMission = [];
   
   randomImage = Math.floor( Math.random() * 3) + 1; // choix aléatoire entre les 3 images différentes pour une humeur
   epiq = loadImage('img/epiq'+randomImage+'.png');
-}*/
+}
 
 
-// Chargement aléatoire des données dans le fichier de données
-$.getJSON("json/DATAWakeUpCalls-V1.json").done( function(tabTrack){
-	// Création d'un tableau des missions uniques
-	for (var i = 0; i < tabTrack.length; i++) {
-		var missionExists = false;
-		for(var j=0;j<tabListMission.length; j++){
-			if( tabListMission[j] == tabTrack[i].mission ) missionExists = true;
+//load jsonData
+$(document).ready(function() {
+	// Chargement des données des missions
+	$.getJSON("json/DATAWakeUpCalls-V1.json").done( function( data ){
+		jsonData = data;
+		// console.log( jsonData );
+
+		// Création d'un tableau des missions uniques
+		for (var i = 0; i < jsonData.length; i++) {
+			var missionExists = false;
+			for(var j=0;j<tabListMission.length; j++){
+				if( tabListMission[j] == jsonData[i].mission ) missionExists = true;
+			}
+			if( missionExists == false ) tabListMission.push( jsonData[i].mission );
 		}
-		if( missionExists == false ) tabListMission.push( tabTrack[i].mission );
-	};
 
-	// add tablistMission Menu
-	var menu = $('.dropdown-menu');
-	for(var j=0;j<tabListMission.length; j++){
-		$(menu).append();
-	}
+		// add tablistMission Menu
+		var menu = document.getElementById('missionSelector');
+		for(var k=0;k<tabListMission.length; k++){
+			menu.innerHTML += '<li><a class="missionItem" href="#' + tabListMission[ k ] + '">' + tabListMission[ k ] + '</a></li>';
+		}
 
+		$('.missionItem').click( function( e ){
+			$("h2").html( $(this).html() );      // Titre de la mission en h2
+			clear();
+			getArtistsByMission( $(this).html() );
+		});
+	});
 
-	var index = Math.floor( Math.random() * tabTrack.length );
-	title = tabTrack[ index ].title;
-	artist = tabTrack[ index ].artist;
-	mission = tabTrack[ index ].mission;
+	// Chargement des données des humeurs
 
-	// Affichage des données textuelles
-
-	$("h2").html( tabTrack[index].mission );      // Titre de la mission en h2
-
-	for (var i = 0; i < tabTrack.length; i++) {
-		$("li").html(tabTrack[i].mission);        // Menu déroulant de sélection de la mission (j'ai réussi à afficher une liste mais n'est pas réussi à afficher toutes les missions.)
-	};
+	$.getJSON("json/TABgenres.json").done( function( data ){
+		moods = data;
+		console.log( moods );
+	});
 });
 
   
 // Renvoie le tableau d'artistes par mission
-function getArtistByMission(mission){
+function getArtistsByMission( mission ){
 
-   $.ajax({
-    url:'json/DATAWakeUpCalls-V1.json',
-    async:false,
-    dataType:'json',
-    success:function(tabTrack) {
-      
-    	console.log("tabTrack:", tabTrack);
-	  var tabArtist = [];
-      for (track in tabTrack) {
-        console.log(tabTrack[track].mission);
-        if(tabTrack[track].mission === mission) {
-          console.log(tabTrack[track].artist); 
-          tabArtist.push(tabTrack[track].artist);
-        }
-      }
+	var missionArtists = [];
+	for(track in jsonData) {
+		if( jsonData[ track ].mission === mission ) {
+			if( jsonData[ track ].artist != 0 ) missionArtists.push( jsonData[ track ].artist );
+		}
+	}
 
-	  console.log(tabArtist);
-	  
-	  for( artist in tabArtist ) {
-	    if(tabArtist[artist] != 0) {
-	      getGenreByArtist(tabArtist[artist]);
-	    }
-	  }
-    }
-  });
+	console.log( missionArtists );
+
+	for( artist in missionArtists ) {
+		if(missionArtists[artist] != 0) {
+			getGenreByArtist(missionArtists[artist]);
+		}
+	}
 }
 
-
-
 // Récupère le genre musical en fonction du nom de l'artiste
-function getGenreByArtist(artist){
-  $.ajax({
-    url:'http://developer.echonest.com/api/v4/artist/search?api_key=4DPQCMYZ8YZF3N0AF&format=json&name='+artist+'&results=1&bucket=genre',
-    async:false,
-    dataType:'json',
-    success:function(data){
-      
-	  var genre = [];
-      var genreList = data.response.artists[0].genres;
-      for (genreItem in genreList) {
-        genre.push(genreList[genreItem].name);
-      }
-      console.log(genre);
-      getMoodByGenre(genre);
+function getGenreByArtist( artist ){
+	$.ajax({
+		url:'http://developer.echonest.com/api/v4/artist/search?api_key=4DPQCMYZ8YZF3N0AF&format=json&name=' + artist + '&results=1&bucket=genre',
+		async:false,
+		jsonDataType:'json',
+		success:function( data ){
+			var artistGenres = [];
+			var genreList = data.response.artists[ 0 ].genres;
 
-    }
-  });
+			for( genreItem in genreList ) {
+				artistGenres.push( genreList[ genreItem ].name );
+			}
 
+			if( artistGenres.length > 0 ){
+				console.log( artistGenres );
+				getMoodByGenre( artistGenres );
+			}
+			else console.log( "no genre found for", artist )
+		}
+	});
 }
 
 
 // Récupère l'humeur en fonction d'un genre
-function getMoodByGenre(genres){
-  var mood = 'not found';
-// inverser la fonction asynchrone
-  $.ajax({
-    url:'json/TABgenres.json',
-    async:false,
-    dataType:'json',
+function getMoodByGenre( genres ){
+	var mood = 'not found';
 
-    success:function(data){
-	  var mood;
-      for (genreItem in genres) {
-        for (var moodItem in data) {    // pour chaque humeur...
-          var tabGenres = data[moodItem];   // ...créer un tableau du contenu de "humeur"
-          for (var i=0; i<tabGenres.length; i++) {
-            if(genres[genreItem] == tabGenres[i]) {   // si le genre correspond à l'un des genres du tableau
-              mood = moodItem;    // afficher le mood du tableau correspondant
-            }
-          }
-        }
-      }
-      drawImage(mood);
-    }
-      
-  });
+	for( var genreItem in genres ) {
+		// console.log( genres[ genreItem ] );
+
+		for ( var moodItem in moods ) {    // pour chaque humeur...
+			var tabGenres = moods[ moodItem ];   // ...créer un tableau du contenu de "humeur"
+			// console.log( tabGenres );
+
+			for ( var i = 0; i < tabGenres.length; i ++ ) {
+				if(genres[ genreItem ] == tabGenres[ i ]) {   // si le genre correspond à l'un des genres du tableau
+					mood = moodItem;    // afficher le mood du tableau correspondant
+				}
+			}
+		}
+	}
+	if( mood != 'not found' ) drawImage( mood );
+	else console.log( 'mood not found' );
 }
 
 
@@ -152,45 +142,42 @@ function getMoodByGenre(genres){
 var x;
 var y;
 
-function drawImage(mood) {  
+function drawImage(mood) { 
+	// console.log( "drawImage", mood );
+	switch(mood) {            
+		case "enthousiaste":
+			image(enth, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
 
-  switch(mood) {            
+		case "patriotique":
+			image(patr, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
 
-      case "enthousiaste":
-      image(enth, x+random(-300,300), y + random(-300,300));
-      break;
-     
-      case "patriotique":
-        image(patr, x+random(-300,300), y + random(-300,300));
-      break;
-      
-      case "combatif":
-        image(comb, x+random(-300,300), y + random(-300,300));
-      break;
-      
-      case "festif":
-        image(fest, x+random(-300,300), y + random(-300,300));
-      break;
-      
-      case "melancolique":
-        image(mela, x+random(-300,300), y + random(-300,300));
-      break;
-      
-      case "energique":
-        image(ener, x+random(-300,300), y + random(-300,300));
-      break;
-      
-      case "contemplatif":
-        image(cont, x+random(-300,300), y + random(-300,300));
-      break;
-     
-      case "epique":
-        image(epiq, x+random(-300,300), y + random(-300,300));
-      break;
-      
-    }
-    
-  }
+		case "combatif":
+			image(comb, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+
+		case "festif":
+			image(fest, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+
+		case "melancolique":
+			image(mela, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+
+		case "energique":
+			image(ener, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+
+		case "contemplatif":
+			image(cont, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+
+		case "epique":
+			image(epiq, x+random(-width/2,width/2), y + random(-height/2,height/2));
+			break;
+	}
+}
 
 // Ce que je n'ai pas pu faire par manque de temps : 
 // - Réorganiser l'ordre des images pour que les motifs à formes pleines passent en arrière-plan, dessous les autres motifs (enthousiaste, patriotique, combatif, festif).
@@ -199,16 +186,14 @@ function drawImage(mood) {
 
 
 function setup(){
-	createCanvas( 400,400 );
-	x = random(300,width-300);
-	y = random(300,width-300);
-    getArtistByMission(mission);
+	createCanvas( windowWidth - 20, 400 );
+	x = width/2;
+	y = height/2;
+	imageMode( CENTER );
 }
 
 function draw(){
-
-  /*
-
-*/
-  noLoop();
+	// clear();
+	// ellipse(mouseX,mouseY,50,50);
+	noLoop();
 }

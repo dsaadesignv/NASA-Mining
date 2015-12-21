@@ -1,126 +1,114 @@
 {
-	"enthousiaste" :[
-		"beach music",
-		"bebop",
-		"british indie rock",
-		"british invasion",
-		"britpop",
-		"comedy",
-		"comic",
-		"hollywood",
-		"motivation",
-		"movie tunes",
-		"reggae",
-		"rock-and-roll",
-		"blues-rock",
-		"british alternative rock",
-		"british blues",
-		"soundtrack",
-		"uk garage",
-		"ukulele",
-		"video game music",
-		"world"
-	],
-
-	"patriotique" :[
-		"alternative americana",
-		"alternative country",
-		"bluegrass",
-		"canadian country",
-		"chanson",
-		"chanson quebecois",
-		"children's music",
-		"country",
-		"fado",
-		"flamenco",
-		"asian",
-		"japanese",
-		"folkmusik",
-		"military band",
-		"pipe band"
-	],
-
-	"combatif" :[
-		"alternative hip hop",
-		"alternative metal",
-		"alternative hardcore",
-		"alternative r&b",
-		"black death",
-		"black metal",
-		"death metal",
-		"metal",
-		"hard rock",
-		"hip hop",
-		"rap",
-		"punk",
-		"r&b"
-		
-	],
-
-	"festif" :[
-		"african percussion",
-		"african rock",
-		"afrikaans",
-		"afrobeat",
-		"afrobeats",
-		"alternative dance",
-		"christmas",
-		"disco",
-		"funk",
-		"dance",
-		"house",
-		"techno",
-		"salsa",
-		"samba"
-		
-	],
-
-	"melancolique" :[
-		"folk",
-		"british folk",
-		"indie folk",
-		"blues"
-		
-	],
-
-	"energique" :[
-		"alternative pop",
-		"alternative pop rock",
-		"alternative rock",
-		"alternative roots rock",
-		"classic rock",
-		"electro",
-		"electro rock",
-		"electro-rock",
-		"grunge",
-		"indie pop",
-		"indie rock",
-		"pop rock",
-		"rock",
-		"pop"
-		
-	],
-
-	"contemplatif" :[
-		"bossa nova",
-		"jazz",
-		"free jazz",
-		"gospel",
-		"swing",
-		"new orleans jazz",
-		"lounge",
-		"smooth jazz",
-		"soul",
-		"vocal jazz"
-		
-	],
-
-	"epique" :[
-		"classical",
-		"orchestral",
-		"instrumental",
-		"opera",
-		"piano blues",
-		"piano rock"
-	]
+  "enthousiaste": [
+    "beach music",
+    "bebop",
+    "british indie rock",
+    "british invasion",
+    "britpop",
+    "comedy",
+    "comic",
+    "hollywood",
+    "motivation",
+    "movie tunes",
+    "reggae",
+    "rock-and-roll",
+    "blues-rock",
+    "british alternative rock",
+    "british blues",
+    "soundtrack",
+    "uk garage",
+    "ukulele",
+    "video game music",
+    "world"
+  ],
+  "patriotique": [
+    "alternative americana",
+    "alternative country",
+    "bluegrass",
+    "canadian country",
+    "chanson",
+    "chanson quebecois",
+    "children's music",
+    "country",
+    "fado",
+    "flamenco",
+    "asian",
+    "japanese",
+    "folkmusik",
+    "military band",
+    "pipe band"
+  ],
+  "combatif": [
+    "alternative hip hop",
+    "alternative metal",
+    "alternative hardcore",
+    "alternative r&b",
+    "black death",
+    "black metal",
+    "death metal",
+    "metal",
+    "hard rock",
+    "hip hop",
+    "rap",
+    "punk",
+    "r&b"
+  ],
+  "festif": [
+    "african percussion",
+    "african rock",
+    "afrikaans",
+    "afrobeat",
+    "afrobeats",
+    "alternative dance",
+    "christmas",
+    "disco",
+    "funk",
+    "dance",
+    "house",
+    "techno",
+    "salsa",
+    "samba"
+  ],
+  "melancolique": [
+    "folk",
+    "british folk",
+    "indie folk",
+    "blues"
+  ],
+  "energique": [
+    "alternative pop",
+    "alternative pop rock",
+    "alternative rock",
+    "alternative roots rock",
+    "classic rock",
+    "electro",
+    "electro rock",
+    "electro-rock",
+    "grunge",
+    "indie pop",
+    "indie rock",
+    "pop rock",
+    "rock",
+    "pop"
+  ],
+  "contemplatif": [
+    "bossa nova",
+    "jazz",
+    "free jazz",
+    "gospel",
+    "swing",
+    "new orleans jazz",
+    "lounge",
+    "smooth jazz",
+    "soul",
+    "vocal jazz"
+  ],
+  "epique": [
+    "classical",
+    "orchestral",
+    "instrumental",
+    "opera",
+    "piano blues",
+    "piano rock"
+  ]
 }
